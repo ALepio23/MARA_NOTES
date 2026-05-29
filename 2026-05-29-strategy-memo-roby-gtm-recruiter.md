@@ -125,3 +125,94 @@ Sei punti aperti che dobbiamo chiudere al prossimo cofounder meeting o nei giorn
 [⁴] `memory/project_campania_play.md` + `2026-05-26-strategy-memo-campania-megaride.md` (in repo) — i 5 thread del Campania play.
 [⁵] SHRM 2025 Benchmark via Pin — "Cost Per Hire Benchmarks" — https://www.pin.com/blog/cost-per-hire-benchmarks/
 [⁶] HireVue Virtual Job Tryout (https://www.hirevue.com/platform/assessment-software/virtual-job-tryout) + Toptal Top 3% (https://www.toptal.com/top-3-percent) — modello try-before-you-buy validato cross-settore.
+
+<!-- EN_BODY -->
+# Strategy memo — GTM MARA: pool first, then partner hubs, then coexist with recruiters
+
+<!-- NARRATIVE_SUMMARY -->
+Roby told us two big things in our call. **One**: hub agreements (private masters, business schools, incubators) need to be locked in BEFORE we sell challenges to companies. Without a ready candidate pool, every company call is an act of faith — "yes, we'll find you students", hoping they materialize in time. The product holds — TLC proved it. What doesn't hold yet is the partner network around it.
+
+**Two**: don't sell ourselves as "the recruiter alternative". Fastest way to make two enemies for the price of one (internal HR + external agency) and lose credibility in a lobbied industry. Reframe: outsourced internal HR (which is grateful for fewer CVs to read) and potential tech-partner for the external recruiter (Adecco, Manpower). Subtle shift, big consequences.
+
+All this maps onto the Campania play we already have: Megaride as anchor, NewSteel + Startcap as channels, hiring KPI as pitch metric. Not a separate initiative — it's the first operational instance of the Roby framework. The memo proposes four moves to decide at the next co-founder meeting.
+<!-- /NARRATIVE_SUMMARY -->
+
+## Context
+
+Call with Roby (advisor, 29 May 2026). She laid out our go-to-market and two strong theses emerged.
+
+**One.** Framework agreements with candidate hubs (masters, business schools, incubators) need to be closed BEFORE we go sell challenges to companies. Verbatim Roby: *"When you run a challenge, you should only be running the challenge — the agreement should already be in place upstream."*
+
+**Two.** Don't position as "the recruiter alternative". Roby: *"You make enemies in the labor market — and you never want enemies."* Reframe as outsourcing for internal HR + future tech-partner for external recruiters.
+
+Baseline: `marachallenge.com` live, 200+ students registered, SBT pipeline live on Polygon (first credential MARA-2026-0043 issued 10 May), first challenge with a global partner (TLC) closed 21 April. The product holds — it's the partner network around it that doesn't yet.
+
+## Elaboration
+
+Three things change for us if we take Roby's framework seriously.
+
+**Incremental product dev is secondary for 60 days.** TLC proved the platform handles a global brand client with real IP transfer. Bugs in our list are polish, not blockers. The real blocker now is the partner network around the platform.
+
+**The pool today is almost monoculture H-FARM.** Means the next company asking "okay, on which students?" still finds H-FARM. For MARA's model — pool verticalization by sector and seniority — this doesn't scale. Without 3-5 new framework agreements by end of July, the next post-TLC challenge launches with a sub-scale signal toward companies.
+
+**The Campania play isn't a separate initiative.** The Campania memo (26 May) already articulated 5 threads (Megaride as anchor, hiring KPI as wedge, NewSteel + Startcap as channels, institutional sponsorship). The Roby framework provides the organizing principle that ties those 5 threads under one logic: the agreements-first sequence. Reformulate it as the *first geo-specific instance of the framework*, not as a standalone project.
+
+## Brainstorming
+
+Four angles worth keeping in mind.
+
+**Hub taxonomy by decision velocity.** Not all hubs are equal. Private masters + business schools are fast (lightweight governance, students already job-oriented). Incubators are fast and self-interested (looking for talent for their portfolio). Chambers of Commerce are medium-speed with institutional dependency. Public universities are slow — medium-term pipeline, not the starting block. The mistake is to start with public ones because "they have volume" — they have volume on the wrong timeline.
+
+**What to offer the hub.** It's not "do us a favor". It's win-win: their average student is looking for an outlet; we put real companies in front of them. They do nothing operational — we handle brief, sprint, evaluation, SBT. They sign and send us students.
+
+**Updated commercial pitch toward companies.** Change the opening frame: not "the recruiter alternative" anymore. Replace with "outsourced junior screening, with observable proof on your real brief before any hire." 2025 market data supports it: executive cost-per-hire +113% since 2017, try-before-you-buy model validated by HireVue ($7M savings/year), Toptal (98% trial-to-hire). MARA is the Italian junior version of a model already proven elsewhere — not an invention.
+
+**External recruiters as future partners.** Adecco, Manpower, boutique headhunters aren't substitution targets. In Q4 2026+ perspective, they're tech-partners: they sell people, we sell evaluation methodology and SBT as on-chain proof. Build the "allies" narrative from now, even if the actual partnership comes later.
+
+## Possible moves
+
+Four things to decide together at the next co-founder meeting (week 23).
+
+**1. Pause incremental product dev for 60 days from the vote.** Co-founder team capacity dedicated to partner hub business development. The product holds — the TLC challenge confirms it. Return to incremental work once the partner network is more solid.
+
+**2. Five framework agreements by 31 July 2026.**
+Nominal targets:
+- Sole 24 Ore Business School (priority 1, fast — first contact by 14 June)
+- Bocconi Master Executive (priority 1, fast — first contact by 21 June)
+- NewSteel, Federico II incubator (already in Campania play pipeline — first contact by 7 June)
+- A second Northern incubator/accelerator, among PoliHub Milan, Talent Garden, BASE, H-FARM Pre-Accelerator (first contact by 28 June)
+- One Campanian Chamber of Commerce (continuity with Campania play — first contact by 21 June; signed by 15 September for the public-cycle timeline)
+
+Owner distribution decided at the meeting.
+
+**3. Update voice and pitch deck.** Remove "alternative to the recruiter" from all materials. Replace with "outsourced internal HR + external ally". Deadline 15 June 2026.
+
+**4. Reformulate the Campania play as the first regional deployment of the framework.** Update the Campania memo with explicit reference to the Roby framework. Deadline 14 June 2026.
+
+**Execution sequence** (if we vote yes on the 4 points):
+- Today: memo in the co-founder channel, reactions within 48h
+- Next co-founder meeting (week 23): vote + owner distribution
+- By 7 June: first draft of standard framework agreement template ready for legal review
+- By 30 June: two exploratory meetings closed (target Sole 24 Ore + 1 incubator)
+- By 31 July: 5 agreements signed or in advanced negotiation
+
+## Questions we need to answer
+
+Six points blocking the launch of the sequence. To close at the next co-founder meeting or in the days before.
+
+- Who in the team has warm contacts already open at Sole 24 Ore Business School?
+- Who has warm contacts at Bocconi Master Executive?
+- Who opens the table with the chosen Campanian Chamber of Commerce?
+- What legal form do we adopt for the standard framework agreement: non-binding MoU, binding framework contract, or Letter of Intent?
+- "Sole 24 Ore" as hub — Business School, Formazione, or another entity of the group? Clarify before first contact.
+- Who is the legal advisor reviewing the agreement template? Blocker on Decision 2 and on the whole agreements sequence.
+
+## Sources
+
+[¹] Roby call notes — 29 May 2026 (file: `Donna (Roby)_ .docx`). Italicized quotes in the body are verbatim from the transcript.
+[²] `mara-context/products.md` + `mara-context/partners.md` — TLC challenge closed 21 April 2026; SBT MARA-2026-0043 issued 10 May 2026 on Polygon mainnet.
+[³] `mara-context/relationships.md` — H-FARM as founding context and current student base provider.
+[⁴] `memory/project_campania_play.md` + `2026-05-26-strategy-memo-campania-megaride.md` (in repo) — the 5 threads of the Campania play.
+[⁵] SHRM 2025 Benchmark via Pin — "Cost Per Hire Benchmarks" — https://www.pin.com/blog/cost-per-hire-benchmarks/
+[⁶] HireVue Virtual Job Tryout (https://www.hirevue.com/platform/assessment-software/virtual-job-tryout) + Toptal Top 3% (https://www.toptal.com/top-3-percent) — try-before-you-buy model validated cross-sector.
+<!-- /EN_BODY -->
