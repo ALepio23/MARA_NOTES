@@ -3,8 +3,8 @@ id: db-platform-20260526
 type: dev-brief
 title: "Dev brief — MARA platform: judges app, clustering, UX, live updates, AI assistant (+ ZK roadmap candidate)"
 date: 2026-05-26
-language: en
-summary: "Six feature candidates surfaced in the 2026-05-26 strategy session (1-5 functional, 6 nice-to-have visual), plus ZK proofs flagged as architecture roadmap candidate. Each item scoped with what/why/open questions/rough estimate. Five decisions needed from Ale Della Rocca."
+language: it
+summary: "Sei candidati feature emersi dalla sessione strategica del 26 maggio 2026 (1-5 funzionali, 6 nice-to-have visivo), più ZK proofs flaggati come candidato architettura roadmap. Ogni voce con cosa è / perché / domande aperte / scope rough. Cinque decisioni del team prima dello sprint successivo."
 people:
   - "Alessandro Della Rocca"
   - "Alessandro Pio Alvigi"
@@ -27,157 +27,167 @@ updated_at: 2026-05-26T23:15:00Z
 
 # Dev brief — MARA platform features + ZK roadmap candidate
 
-**Lang**: EN (default for dev briefs)
-
 <!-- NARRATIVE_SUMMARY -->
-Six feature candidates surfaced in the 2026-05-26 strategy session, each scoped at concept level — what they do, why they matter, what's unresolved, rough effort estimate. The brief organizes them so Della Rocca can prioritize without losing any of them in the noise.
+Sei feature candidate uscite dalla sessione strategica del 26 maggio. Cinque funzionali, una nice-to-have visiva, più un candidato architettura (ZK proofs) che è roadmap non sprint. Brief organizzato per concept level: cosa è, perché serve, cosa è ancora aperto, rough estimate.
 
-The first five are functional. **Judges web app** centralizes evaluation flow currently scattered across ad-hoc channels — auth model and scoring schema are the open architecture questions. **Challenge clustering** groups challenges by theme so discovery scales as the catalog grows — axis choice (skill / vertical / partner industry) is the design decision. **UX back-arrow / navigation history** is a surface-level fix to in-app routing — small scope, real friction. **Live updates** eliminate manual reload for judges and students mid-challenge — transport choice (WebSocket / SSE / polling) is the technical call. **AI assistant for presentation analysis** has *enormous scope variance* depending on target audience — same feature description means 3 days of work for one interpretation and 6+ weeks for another, so the target question must be answered first.
+**Le funzionali in due righe**: Judges web app centralizza la valutazione che oggi gira tra mail, doc condivisi e canali partner. Clustering raggruppa le challenge per tema così lo scroll della lista non diventa doloroso quando il catalogo cresce. UX back-arrow è un fix piccolo di routing in-app — sproporzionato il valore vs la complessità. Live updates eliminano il reload manuale (importante soprattutto per i giudici durante la valutazione). AI assistant per analisi presentazioni è quella con varianza scope enorme — stesso name, 3 giorni di lavoro o 6 settimane a seconda di come la interpretiamo. Va deciso il target prima di tutto il resto.
 
-The sixth item — **life roadmap graphic timeline** on student profiles — is explicitly nice-to-have, not sprint material. Aligns with the "credential beats CV" narrative but doesn't block anything.
+**Architettura roadmap (ZK proofs)**: credenziali con privacy on-chain per dimostrare il completamento di una challenge senza esporre score o dati partner. Non per sprint corrente — decisione roadmap: lo teniamo nella Q3 2026 eval o lo spostiamo più avanti?
 
-The **architecture candidate** is ZK proofs in the SBT pipeline — privacy-preserving credentials that let students prove challenge completion without revealing scoring details. **Not a sprint item**: roadmap decision needed (keep on Q3 2026 evaluation, or push further out).
-
-Five decisions are flagged for Della Rocca: priority ranking of features 1-5, AI assistant target audience, ZK proofs roadmap slot, capacity check against Lux Collective load, and clustering axis choice. The brief is input for the next planning round — nothing here is committed.
+Cinque decisioni di prodotto/architettura da prendere insieme prima del prossimo sprint planning. Sono blocker, non preferenze — ogni domanda non risposta sposta una feature.
 <!-- /NARRATIVE_SUMMARY -->
 
-## Context
+## Contesto
 
-Five feature candidates surfaced in the 2026-05-26 strategy session. Each is concept-level — this brief organizes them with what / why / open scope so you can prioritize without losing them. One architecture-candidate (ZK proofs) is flagged separately as roadmap, not sprint. Nothing here is committed — input for the next planning round.
+Sessione strategica del 26 maggio 2026. Sono emerse sei feature candidate per la piattaforma e un candidato architettura (ZK proofs). Tutto a livello concept — niente è committato, è materiale per il prossimo planning round.
 
----
+Questo brief le organizza con la stessa struttura per ognuna: cosa è, perché serve, cosa è ancora aperto, rough scope. L'obiettivo è poterle prioritizzare senza perdere nessuna nel rumore.
 
-## 1. Judges web app
+## Elaborazione
 
-**What**: A dedicated web app for challenge judges (the people evaluating submissions), separate from the main student/partner platform.
+Le feature 1-5 sono funzionali e si misurano. La 6 è nice-to-have visiva. Le ZK proofs sono architettura — decisione di roadmap, non di sprint.
 
-**Why**: Today judges receive submissions through ad-hoc channels (shared docs, email, partner-side). A dedicated app centralizes the evaluation flow, makes scoring consistent across challenges, and produces structured data (scores, comments, time-to-decision) we can use in the partner KPI pitch.
+L'AI assistant (feature 5) è quella con la varianza di scope più grossa di tutto il brief: lo stesso nome può significare 3 giorni di lavoro (wrapper su LLM hosted con prompt fisso) o 6+ settimane (modello rubric custom + UX multi-stakeholder). Va deciso il target *prima* di tutto il resto — altrimenti il pianificamento è inutile.
 
-**Open questions**:
-- Auth model: judges as platform users, or per-challenge invite link?
-- Scoring schema: numeric / rubric / qualitative?
-- Cross-challenge access (benchmarking) or sandboxed per challenge?
-- Output: PDF report per challenge / real-time leaderboard / both?
+L'architettura candidate (ZK proofs) si allinea bene alla narrativa "credenziali on-chain con privacy" che il deep-dive recruiter¹ tira fuori come potenziale differentiator vs credenziali tradizionali. Ma è ricerca, non sprint. Il punto è decidere se nei prossimi 90 giorni mettiamo bandwidth di ricerca su questo o no.
 
-**Rough scope**: 2–3 weeks for v1 if it's a thin wrapper on existing submission data.
+Capacity reale: la challenge Lux Collective è la priority commitment in corso². Tutto il dev nuovo deve respect quell'envelope finché Lux non chiude (era 21 aprile 2026 — verificare se ancora aperto). Vale la pena vedere se qualcuna delle feature 1-5 ci sta dentro prima del wrap-up.
 
----
+## Brainstorming — le sei feature
 
-## 2. Challenge clustering
+### 1. Judges web app
 
-**What**: Group challenges into clusters so students and partners can navigate by theme.
+**Cosa è**: web app dedicata per i giudici delle challenge (chi valuta le submission), separata dalla piattaforma principale studenti/partner.
 
-**Why**: The catalog will grow — without clustering, discovery gets painful. Also enables partner-side filtering ("all engineering hiring challenges") and student affinity filtering ("design / comms challenges").
+**Perché**: oggi i giudici ricevono le submission un po' a casaccio (mail, doc condivisi, lato partner). Una app dedicata centralizza il flusso di valutazione, rende lo scoring consistente tra challenge, e produce dati strutturati (score, commenti, time-to-decision) che usiamo nel pitch KPI verso i partner.
 
-**Open questions**:
-- Cluster axis: skill / vertical / partner industry / hiring focus? (probably multiple axes)
-- Multi-cluster allowed per challenge?
-- Manual tagging vs auto-tagging from existing metadata?
+**Cosa è ancora aperto**:
+- Auth model: giudici come utenti della piattaforma o invite link per-challenge?
+- Schema di scoring: numerico, rubric, qualitativo?
+- Accesso cross-challenge (per benchmark) o sandboxed per ogni challenge?
+- Output finale: report PDF per challenge, leaderboard live, entrambi?
 
-**Rough scope**: ~1 week for taxonomy + DB schema + admin tagging UI; +1 week for filter UI on student/partner side.
+**Rough scope**: 2-3 settimane per la v1 se è un wrapper sottile sui dati submission che abbiamo già.
 
 ---
 
-## 3. UX: back arrow / navigation history
+### 2. Challenge clustering
 
-**What**: Add an in-app "back" arrow so users return to the previous view without using browser back.
+**Cosa è**: raggruppare le challenge per cluster tematici così che studenti e partner possano navigare per tema.
 
-**Why**: Surfaced as a friction point. Standard SPA pattern — keeps state in-app instead of relying on browser history.
+**Perché**: il catalogo cresce. Senza clustering la discovery diventa dolorosa man mano. Permette anche filtri lato partner ("tutte le challenge engineering hiring") e affinità lato studente ("challenge design/comms").
 
-**Open questions**:
-- Specific flows: challenge detail → list, submission → challenge, profile → home, all of them?
-- App-wide history stack or per-screen?
+**Cosa è ancora aperto**:
+- Asse di cluster: skill, verticale, industria del partner, focus di hiring (probabilmente assi multipli)?
+- Una challenge può stare in più cluster?
+- Tagging manuale vs auto-tagging dai metadati esistenti?
 
-**Rough scope**: 2–3 days if routing is clean; longer if state needs to be threaded.
-
----
-
-## 4. Live updates (no page reload)
-
-**What**: Reflect server-side changes on the page in real time, no manual reload.
-
-**Why**: Reload after submission/edit/comment disrupts flow. Most relevant for judges (live scoring) and for students checking submission status mid-challenge.
-
-**Open questions**:
-- WebSocket / SSE / polling?
-- Scope: just submissions + scores, or platform-wide?
-- Optimistic UI vs server-confirmed updates?
-
-**Rough scope**: 1–2 weeks depending on backend support and chosen transport.
+**Rough scope**: ~1 settimana per taxonomy + DB schema + UI di tagging admin; +1 settimana per il filter UI lato studente/partner.
 
 ---
 
-## 5. AI assistant — presentation analysis
+### 3. UX: freccia indietro / cronologia in-app
 
-**What**: An AI assistant that analyzes presentations and gives structured feedback. **Target presentations not yet defined** (see open questions).
+**Cosa è**: pulsante "back" in-app perché l'utente torni alla vista precedente senza usare il back del browser.
 
-**Why**: If applied to student final presentations → accelerates judge workload + gives students a pre-submission feedback loop. If applied to MARA pitch decks → internal content review tool. Very different feature depending on target.
+**Perché**: emerso come friction point. Pattern SPA standard — tiene lo stato dentro l'app invece che appoggiarsi alla history del browser.
 
-**Open questions (critical — scope is undefined)**:
-- **Target**: student submissions / MARA pitch decks / partner pitch reviews / something else?
-- **Output**: rubric scoring / written feedback / both?
-- **Trigger**: on-upload / on-demand / scheduled?
-- **Model**: hosted (OpenAI/Anthropic) or self-host?
-- **Privacy**: who sees the AI feedback — student only, judge only, both?
+**Cosa è ancora aperto**:
+- Quali flow specifici: challenge detail → list, submission → challenge, profile → home, tutti?
+- Stack di history app-wide o per-screen?
 
-**Rough scope**: 3 days (thin wrapper on hosted LLM with a fixed prompt) → 6+ weeks (custom rubric model + multi-stakeholder UX). Answer the target question first; everything else follows.
+**Rough scope**: 2-3 giorni se il routing è pulito; più tempo se serve passare stato in giro.
 
 ---
 
-## 6. Life roadmap — graphic timeline (nice-to-have)
+### 4. Live updates (no page reload)
 
-**What**: A graphical timeline view on the student profile showing completed MARA challenges + SBT credentials + key milestones as a horizontal/vertical roadmap. Alternative visual layout to the standard CV-style list.
+**Cosa è**: riflettere i cambi server-side sulla pagina in tempo reale, senza reload manuale.
 
-**Why**: Aligns with the "credential beats CV" narrative — the profile feels more like a portfolio journey than a résumé. Pure UI feature, no positioning push needed.
+**Perché**: il reload dopo submission/edit/commento rompe il flow. Più importante per i giudici (live scoring) e per gli studenti che controllano lo stato della loro submission durante la challenge.
 
-**Open questions**:
-- Scope: MARA challenges only, or also external/self-declared experiences (with disclaimer)?
-- Render: chronological / clustered by skill / branching?
-- Sharing: public link mode (read-only) or login-only?
-- Default view: timeline first or list first (toggle)?
+**Cosa è ancora aperto**:
+- WebSocket, SSE, polling?
+- Scope: solo submission + score, o tutta la piattaforma?
+- UI ottimistica o solo conferme server-confirmed?
 
-**Rough scope**: 4–6 days for a basic horizontal timeline reading existing SBT + challenge data; longer if external experiences and sharing modes are added.
-
-**Priority**: nice-to-have. Not blocking, not part of the next sprint unless capacity allows.
+**Rough scope**: 1-2 settimane a seconda del supporto backend e del transport scelto.
 
 ---
 
-## Architecture candidate — ZK proofs
+### 5. AI assistant — analisi presentazioni ⚠ scope da definire
 
-**What**: Zero-knowledge proofs integrated into the SBT credential pipeline on Polygon.
+**Cosa è**: un assistente AI che analizza le presentazioni e dà feedback strutturato. **Target delle presentazioni non ancora definito** (vedi domande aperte).
 
-**Why** (context, not for sprint): privacy-preserving credentials let a student prove they completed challenge X without revealing scoring details or partner data. Aligns with the "credential beats CV" narrative and is a meaningful differentiator vs traditional credentials.
+**Perché**: se applicato alle presentazioni finali degli studenti → accelera il lavoro dei giudici + dà agli studenti un loop di feedback pre-submission. Se applicato ai pitch deck MARA → strumento di review interno. Feature molto diverse a seconda del target.
 
-**Architectural impact**:
-- Affects SBT issuance pipeline (Polygon).
-- Library candidates: Semaphore / Aztec / circom — to evaluate.
-- Off-chain proof generation vs on-chain verification cost tradeoff.
+**Cosa è ancora aperto (critico — scope indefinito)**:
+- Target: submission studenti, pitch deck MARA, review pitch partner, altro?
+- Output: rubric scoring, feedback scritto, entrambi?
+- Trigger: on-upload, on-demand, schedulato?
+- Modello: hosted (OpenAI / Anthropic) o self-hosted?
+- Privacy: chi vede il feedback AI — solo studente, solo giudice, entrambi?
 
-**Open questions**:
-- Privacy of what exactly: completion-only / score-hidden / partner-hidden / all of the above?
-- Verifier audience: hiring partners / public / both?
-- Timeline urgency: eval now (Q3 2026) or roadmap further out?
+**Rough scope**: 3 giorni (wrapper sottile su LLM hosted con prompt fisso) ↔ 6+ settimane (modello rubric custom + UX multi-stakeholder). **Rispondere prima al target — tutto il resto segue.**
 
-**Note**: this is **not** a sprint item. Decision needed: roadmap slot or not.
+---
+
+### 6. Life roadmap — timeline grafica (nice-to-have)
+
+**Cosa è**: una vista timeline grafica sul profilo studente che mostra challenge completate + SBT + milestone come una roadmap orizzontale/verticale. Layout visivo alternativo alla classica lista CV-style.
+
+**Perché**: si allinea alla narrativa "credenziali batton il CV" — il profilo sembra più un portfolio journey che un curriculum. Feature pura di UI, non spinge nessun posizionamento nuovo.
+
+**Cosa è ancora aperto**:
+- Scope: solo challenge MARA, o anche esperienze esterne/self-declared (con disclaimer)?
+- Render: cronologico, raggruppato per skill, branching?
+- Sharing: link pubblico (read-only) o solo login?
+- Vista default: timeline o lista (con toggle)?
+
+**Rough scope**: 4-6 giorni per timeline orizzontale base che legge SBT + dati challenge esistenti; di più se servono esperienze esterne e modi di sharing.
+
+**Priorità**: nice-to-have. Non blocca niente, non per il prossimo sprint a meno che non ci sia capacity extra.
+
+---
+
+## L'architettura candidate — ZK proofs
+
+**Cosa è**: zero-knowledge proofs integrati nella pipeline SBT su Polygon.
+
+**Perché** (contesto, non per sprint): credenziali privacy-preserving — lo studente prova di aver completato la challenge X senza esporre score o dati partner. Si allinea alla narrativa "credenziali batton il CV" ed è un differenziatore reale vs credenziali tradizionali.
+
+**Impatto architetturale**:
+- Tocca la pipeline di issuance SBT (Polygon).
+- Library candidati: Semaphore, Aztec, circom — da valutare.
+- Tradeoff: generazione proof off-chain vs verifica on-chain costs.
+
+**Cosa è ancora aperto**:
+- Privacy di cosa esattamente: solo completion, score hidden, partner hidden, tutti?
+- Audience del verifier: hiring partner, pubblico, entrambi?
+- Urgenza timeline: eval ora (Q3 2026) o roadmap più avanti?
+
+**Nota**: **non** è uno sprint item. Serve solo decidere se metterlo nello slot roadmap o no.
 
 ---
 
 ## Domande a cui dobbiamo rispondere
 
-Five product/architecture decisions that the team needs to take before the next sprint planning. They are blockers, not preferences — each unanswered question delays a feature.
+Cinque decisioni di prodotto/architettura che il team deve prendere prima del prossimo sprint planning. Sono blocker, non preferenze — ogni domanda non risposta sposta una feature.
 
-- **Priority ranking of features 1–5** — which feature ships first this sprint? Without ranking, capacity gets fragmented across five fronts.
-- **AI assistant target audience** — which presentations does the assistant analyze? Student final submissions, MARA pitch decks, partner pitch reviews? This is the biggest scope variance in the whole brief; same description means 3 days of work for one answer and 6+ weeks for another. Answer this first.
-- **ZK proofs roadmap slot** — keep on Q3 2026 evaluation timeline, or push further out? The decision impacts how much research bandwidth gets allocated this quarter.
-- **Capacity vs Lux Collective load** — does anything in features 1–5 fit before the Lux challenge closes (21 April 2026)? Lux is the priority commitment; new dev work must respect that envelope.
-- **Clustering axis choice** — decide the taxonomy now as a single source of truth, or prototype with one axis and iterate? Both have valid trade-offs — committing now lowers rework risk, prototyping lowers commitment risk.
+- **Priority ranking delle feature 1-5** — quale ship per prima nel prossimo sprint? Senza ranking, la capacity si frammenta su cinque fronti.
+- **Target dell'AI assistant** — quali presentazioni analizza? Submission studenti, pitch deck MARA, review pitch partner? È la varianza scope più grossa del brief — stesso nome significa 3 giorni o 6+ settimane. **Rispondere a questa prima.**
+- **Slot roadmap delle ZK proofs** — Q3 2026 eval o spingere più avanti? La decisione impatta quanta bandwidth di ricerca alloca questo trimestre.
+- **Capacity vs carico Lux Collective** — qualcosa delle feature 1-5 ci sta dentro prima che Lux chiuda (era 21 aprile 2026)? Lux è la priority commitment, il dev nuovo deve respect quell'envelope.
+- **Asse del clustering** — decidere ora la taxonomy come single source of truth, o prototipare con un asse e iterare? Entrambe hanno tradeoff validi — decidere ora abbassa il rework risk, prototipare abbassa il commitment risk.
 
 ---
 
-## Parked elsewhere
+## Parcheggiati altrove
 
-- **Penetration testing / ethical hacking** — surfaced in the same strategy session with zero scope attached. Parked in `~/Desktop/MARA.notes/note-generiche.md` until clarified. If this turns out to be a security audit request for the platform, will be surfaced back as a separate item.
+- **Penetration testing / ethical hacking** — uscito nella stessa sessione strategica con zero scope attaccato. Parcheggiato in `~/Desktop/MARA.notes/note-generiche.md` finché non viene chiarito. Se diventa una richiesta di security audit per la piattaforma, lo riportiamo come item separato.
 
 ## Fonti
 
-[¹] Strategy session notes 2026-05-26 (chat paste, intake batch 2).
+[¹] Deep-dive recruiter coexistence `2026-05-29-deep-dive-recruiter-coexistence.md` — analisi della narrativa "credenziali batton il CV" + posizionamento SBT come differenziatore.
+[²] `mara-context/partners.md` — TLC challenge Lux Collective, durata 18 marzo – 21 aprile 2026, status priority commitment lato platform.
+[³] Sessione strategica 2026-05-26 (note grezze, chat paste batch 2) — fonte originale delle 6 feature + ZK candidate.

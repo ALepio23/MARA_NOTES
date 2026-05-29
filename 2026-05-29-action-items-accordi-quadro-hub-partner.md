@@ -35,18 +35,24 @@ updated_at: "2026-05-29T15:10:00Z"
 # Action items — Accordi quadro hub partner
 
 <!-- NARRATIVE_SUMMARY -->
-Dieci azioni concrete derivate dal strategy memo Roby. Le prime cinque sono accordi quadro con hub di candidati: Sole 24 Ore Business School (owner candidato Alvigi), Bocconi Master executive (Gualano), NewSteel incubatore — in continuità col Campania play (Alvigi), un incubatore al Nord come PoliHub o Talent Garden (Della Rocca), una Camera di Commercio campana (Zhubi). Deadline aggregata: **31 luglio 2026**.
+Le cose che dobbiamo far succedere se prendiamo seriamente quello che Roby ha detto. Cinque accordi quadro entro il 31 luglio (Sole 24 Ore Business School, Bocconi Master Executive, NewSteel, un secondo incubatore Nord, una Camera di Commercio campana). Cinque infrastrutture abilitanti che vengono PRIMA (template legale, voice aggiornata, voto al cofounder meeting, memo Campania riformulato, decisione sulla forma giuridica).
 
-Le successive cinque sono infrastrutture abilitanti che servono PRIMA di firmare gli accordi: bozza del template legale standard (deadline 7 giugno), aggiornamento della voice guideline per allineare il posizionamento "outsourcing HR interno" (15 giugno), cofounder meeting con voto sui quattro punti decisionali del memo (settimana 23), riformulazione del memo Campania come primo deployment regionale del framework, e una decisione formale sulla forma giuridica degli accordi (MoU? contratto-quadro? LOI?) prima dell'invio del primo template.
+La distribuzione degli owner si decide insieme al meeting della settimana 23 — quelli che mancano qui non sono assegnazioni preventive ma cose che il team deve far succedere come team.
 
-Cinque open questions restano in coda — la più urgente è: chi del team ha contatti caldi già aperti in Sole 24 Ore e Bocconi Master oggi? Senza warm intro, la timeline "first meeting entro 14-21 giugno" non regge. **Tutti gli owner finali vanno confermati al prossimo cofounder meeting** — quelli indicati qui sono candidati basati sui ruoli ufficiali (Marketing / Business / Operations / IT), non assegnazioni decise.
+Sei domande aperte che bloccano l'avvio della sequenza. La più urgente è quella che vale per tutti gli accordi: chi del team ha contatti caldi già attivi in Sole 24 Ore e Bocconi Master? Senza warm intro, le date di first contact non reggono.
 <!-- /NARRATIVE_SUMMARY -->
 
-Derivati dal strategy memo `2026-05-29-strategy-memo-roby-gtm-recruiter.md` e dalla call con Roby. **Sono cose che il team deve far succedere, non assegnazioni preventive.** La distribuzione degli owner viene decisa al cofounder meeting della settimana 23, contestualmente al voto sulle decisioni del memo.
+## Contesto
+
+Queste sono le cose che escono fuori se il team approva i 4 punti del strategy memo Roby¹. Non sono assegnazioni preventive — sono cose che dobbiamo far succedere come team. La distribuzione degli owner si decide al cofounder meeting della settimana 23, contestualmente al voto.
+
+## Cosa serve fare
+
+Tre tracce parallele: chiusura accordi (priorità 1), infrastruttura abilitante che serve PRIMA degli accordi (priorità 2), allineamento strategico interno (priorità 3).
 
 ---
 
-## Priorità 1 — Chiusura accordi quadro (hard deadline 31 luglio 2026)
+### Priorità 1 — Chiusura accordi quadro (hard deadline 31 luglio 2026)
 
 Stringere **cinque accordi quadro** con hub di candidati che diventano il bacino di reclutamento per le challenge.
 
@@ -62,7 +68,7 @@ Stringere **cinque accordi quadro** con hub di candidati che diventano il bacino
 
 ---
 
-## Priorità 2 — Infrastruttura abilitante (deadline 30 giugno 2026)
+### Priorità 2 — Infrastruttura abilitante (deadline 30 giugno 2026)
 
 6. **Template "Accordo quadro standard MARA"** — bozza pronta entro il 7 giugno, versione finale post-review legale entro il 21 giugno. Standardizzazione 70-80%, customizzazione 20-30% per hub specifico. Forma giuridica decisa prima dell'invio del primo template (vedi domande in fondo).
 
@@ -70,7 +76,7 @@ Stringere **cinque accordi quadro** con hub di candidati che diventano il bacino
 
 ---
 
-## Priorità 3 — Allineamento strategico (entro il 7 giugno 2026)
+### Priorità 3 — Allineamento strategico (entro il 7 giugno 2026)
 
 8. **Cofounder meeting con voto sui 4 punti decisionali del strategy memo.** Punti da votare: (a) sospendere lo sviluppo prodotto incrementale per 60 giorni, (b) target 5 accordi entro il 31 luglio, (c) aggiornamento voice, (d) riformulazione del Campania play come primo deployment regionale. Distribuzione degli owner sui 5 accordi decisa nello stesso meeting.
 
@@ -78,7 +84,7 @@ Stringere **cinque accordi quadro** con hub di candidati che diventano il bacino
 
 ---
 
-## Priorità 4 — Decisione legale (entro il 7 giugno 2026)
+### Priorità 4 — Decisione legale (entro il 7 giugno 2026)
 
 10. **Decisione sulla forma giuridica degli accordi.** "Accordo quadro" può significare MoU non vincolante, contratto-quadro vincolante, o Letter of Intent. La forma giusta dipende dal tipo di hub e dal grado di esclusività richiesto. Va presa prima dell'invio del primo template perché un template sbagliato si propaga su tutti gli accordi successivi.
 

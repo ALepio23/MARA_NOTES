@@ -34,11 +34,11 @@ updated_at: "2026-05-29T15:30:00Z"
 # Meeting recap — Call con Roby su strategia GTM MARA
 
 <!-- NARRATIVE_SUMMARY -->
-Call di consulenza strategica con Roby — advisor esterno, cognome non specificato nelle note — su strategia go-to-market MARA. Formato 1:1 conversazionale: Roby parla, Alessandro reagisce e conferma. Rita Zhubi e Michele Gualano (due dei quattro co-founder MARA) presenti almeno ai saluti finali. Data esatta della call non documentata, stimata fine maggio 2026 sulla base del fatto che il file è stato condiviso il 29 maggio.
+Call con Roby (advisor) sul nostro go-to-market. Format conversazionale: lei parla, MARA reagisce e conferma. Rita e Michele presenti almeno ai saluti finali. Data: 29 maggio 2026.
 
-I temi coperti hanno seguito una progressione logica chiara. Prima la sequenza accordi-quadro-prima-delle-challenge come principio organizzativo (e perché invertirla è inefficiente). Poi la taxonomia degli hub partner, con un ordine di priorità basato sulla velocità decisionale: master privati e business school per primi, incubatori subito dopo, Camere di Commercio e università pubbliche più avanti. Poi il posizionamento delicato verso i recruiter — alleati dell'esterno, complemento dell'interno, mai sostituti frontali. Infine la Unique Value Proposition (try-before-you-buy + verticalizzazione + velocità) e la scelta di partire da profili junior prima di scalare ai professional.
+Temi coperti in ordine: la sequenza accordi-prima-delle-challenge come principio organizzativo; taxonomia degli hub (master privati e business school come priorità per velocità); posizionamento delicato verso i recruiter (alleati dell'esterno, complemento dell'interno); UVP basata su try-before-you-buy + verticalizzazione + velocità; scelta di partire da junior e scalare al professional dopo.
 
-Nessuna decisione formale è stata presa nella call — il formato era advisory, non operativo. Le decisioni concrete sono state proposte successivamente nel strategy memo dello stesso giorno e portate al cofounder meeting in agenda per la settimana 23. Questo recap è l'archivio neutrale della conversazione; il framing strategico vive nel memo, gli action items operativi nel doc dedicato.
+Nessuna decisione formale — il formato era advisory. Le decisioni operative sono finite nel strategy memo dello stesso giorno e vanno al cofounder meeting della settimana 23. Questo recap è l'archivio neutrale della call — il framing strategico vive nel memo, gli action items operativi nel doc dedicato.
 <!-- /NARRATIVE_SUMMARY -->
 
 ## Partecipanti
@@ -54,7 +54,7 @@ Call di consulenza strategica con formato conversazionale (Roby parla, MARA reag
 
 Data della call: 29 maggio 2026 (data di condivisione del file `.docx` con le note). Durata effettiva non desumibile dalla sorgente — il file è uno stralcio testuale, non un transcript con timestamp.
 
-## Argomenti trattati
+## Elaborazione — argomenti trattati
 
 ### 1. Sequenza accordi-prima-delle-challenge
 
@@ -103,7 +103,7 @@ Discussione breve sul tema costi:
 
 Non è stato discusso il pricing verso aziende partner — quello rimane su €5K flat per challenge³ secondo i materiali MARA esistenti.
 
-## Idee chiave (sintesi)
+## Brainstorming — idee chiave emerse
 
 1. La sequenza giusta è **accordi quadro standardizzati → bacino candidati pronto → vendita alle aziende**. Invertirla è inefficiente.
 2. **Hub partner privati prima dei pubblici** (master, business school, incubatori prima delle università pubbliche).
