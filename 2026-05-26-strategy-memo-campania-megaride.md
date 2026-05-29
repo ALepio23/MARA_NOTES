@@ -30,6 +30,16 @@ updated_at: 2026-05-26T23:15:00Z
 
 *Documento di aggiornamento team — sintesi dei suggerimenti raccolti in sessione strategica del 2026-05-26 con argomentazione strategica per ognuno.*
 
+<!-- NARRATIVE_SUMMARY -->
+L'ingresso di MARA in Campania nasce non come iniziativa parallela ma come **mossa convergente** su cinque thread strategici emersi nella sessione del 26 maggio 2026. **Megaride** — azienda ingegneristica napoletana con DNA Federico II — è il partner ancora: il primo deal che valida che il framework MARA funziona fuori dall'orbita H-FARM. Lo **hiring KPI** (cost-per-hire + time-to-hire) è il wedge narrativo che rende il pitch corporate immediatamente leggibile: numeri, non slogan.
+
+L'ecosistema regionale fornisce i canali di accesso. **Campania NewSteel** — incubatore Federico II — funziona da canale referral verso aziende incubate e accesso ai partecipanti dei suoi programmi. **Startcap Campania** funziona da canale istituzionale regionale: apply, partnership o speaker da decidere. Il **patrocinio istituzionale** (Regione Campania o Federico II via NewSteel) è la copertura che rende la mossa visibile senza essere percepita come sales push estraneo al territorio.
+
+La sequenza proposta è 60 giorni a partire dal 26 maggio 2026. Il rischio principale è il pattern Federico II: la stessa orbita istituzionale già attivata nel progetto Impact Puglia con UniFG — geografie diverse, network simile — quindi le richieste possono saturare lo stesso decision-maker. La mitigazione è distribuire le richieste su soggetti distinti dell'ecosistema (Megaride lato corporate, NewSteel lato incubatore, Startcap lato istituzionale).
+
+Il memo connette Megaride come **primo case study Campania entro Q3 2026** se il deal chiude. È supporto narrativo al positioning "challenge come funnel hiring alternativo al CV" — esattamente il framing che pochi giorni dopo verrà arricchito dalla call con Roby, che inquadra il Campania play come prima istanza operativa di un framework più generale (vedi `2026-05-29-strategy-memo-roby-gtm-recruiter.md`).
+<!-- /NARRATIVE_SUMMARY -->
+
 ## Tesi
 
 MARA dovrebbe attivare nei prossimi 60 giorni un ingresso strutturato in Campania, con **Megaride come partner ancora**, **hiring problem + KPI cost/time-to-hire come wedge narrativo**, e **Startcap Campania + Campania NewSteel come canali ecosystem**, il tutto coperto da un **patrocinio istituzionale** ancora da definire. I cinque thread emersi nella sessione convergono su un'unica mossa di mercato regionale: non sono cinque iniziative separate, sono una sola play che usa più leve. [¹]

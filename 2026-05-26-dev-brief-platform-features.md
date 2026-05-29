@@ -31,6 +31,18 @@ updated_at: 2026-05-26T23:15:00Z
 **From**: Alessandro Alvigi
 **Lang**: EN (default for dev briefs)
 
+<!-- NARRATIVE_SUMMARY -->
+Six feature candidates surfaced in the 2026-05-26 strategy session, each scoped at concept level — what they do, why they matter, what's unresolved, rough effort estimate. The brief organizes them so Della Rocca can prioritize without losing any of them in the noise.
+
+The first five are functional. **Judges web app** centralizes evaluation flow currently scattered across ad-hoc channels — auth model and scoring schema are the open architecture questions. **Challenge clustering** groups challenges by theme so discovery scales as the catalog grows — axis choice (skill / vertical / partner industry) is the design decision. **UX back-arrow / navigation history** is a surface-level fix to in-app routing — small scope, real friction. **Live updates** eliminate manual reload for judges and students mid-challenge — transport choice (WebSocket / SSE / polling) is the technical call. **AI assistant for presentation analysis** has *enormous scope variance* depending on target audience — same feature description means 3 days of work for one interpretation and 6+ weeks for another, so the target question must be answered first.
+
+The sixth item — **life roadmap graphic timeline** on student profiles — is explicitly nice-to-have, not sprint material. Aligns with the "credential beats CV" narrative but doesn't block anything.
+
+The **architecture candidate** is ZK proofs in the SBT pipeline — privacy-preserving credentials that let students prove challenge completion without revealing scoring details. **Not a sprint item**: roadmap decision needed (keep on Q3 2026 evaluation, or push further out).
+
+Five decisions are flagged for Della Rocca: priority ranking of features 1-5, AI assistant target audience, ZK proofs roadmap slot, capacity check against Lux Collective load, and clustering axis choice. The brief is input for the next planning round — nothing here is committed.
+<!-- /NARRATIVE_SUMMARY -->
+
 ## Context
 
 Five feature candidates surfaced in the 2026-05-26 strategy session. Each is concept-level — this brief organizes them with what / why / open scope so you can prioritize without losing them. One architecture-candidate (ZK proofs) is flagged separately as roadmap, not sprint. Nothing here is committed — input for the next planning round.
