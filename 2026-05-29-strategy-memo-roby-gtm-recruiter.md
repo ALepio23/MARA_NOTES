@@ -39,6 +39,16 @@ updated_at: "2026-05-29T15:00:00Z"
 
 # Strategy memo — GTM MARA: bacino prima delle challenge, hub partner, coesistenza con il recruiter
 
+<!-- NARRATIVE_SUMMARY -->
+La call con Roby ha messo a fuoco una cosa che il team MARA stava trattando come scelta tattica: la sequenza tra accordi con hub di candidati e vendita di challenge alle aziende. La tesi è semplice ma radicale — gli accordi vengono prima, sempre. Senza un bacino di candidati pronto, ogni call con un'azienda diventa un atto di fede ("sì, vi troviamo gli studenti", detto sperando che si materializzino in tempo). Il prodotto regge — lo dice TLC. Quello che non regge ancora è l'infrastruttura partner intorno.
+
+La taxonomia degli hub è più strutturata di quanto sembri. Master privati e business school (Sole 24 Ore, Bocconi Master) sono la prima onda: processi rapidi, studenti già orientati al mercato. Incubatori (NewSteel, H-FARM Pre-Accelerator) sono la seconda: naturali promoter perché cercano talento per il loro portfolio. Camere di Commercio ed enti professionalizzanti sono la terza, le università pubbliche la quarta — più lente, da inserire in pipeline ma non da blocco di partenza.
+
+Il secondo punto — coesistenza con il recruiter, non sostituzione — ribalta un istinto comunicativo comune. MARA non è "l'alternativa al recruiter". È outsourcing dell'HR interno (che ringrazia, perché ha meno CV da leggere) e potenziale partner futuro del recruiter esterno (Adecco, Manpower) — anziché competitor frontale. Vendere come "alternativa" rovina i rapporti con un settore intero. La sfumatura è piccola, le conseguenze commerciali no.
+
+Tutto questo confluisce nel Campania play, che diventa la prima istanza operativa del framework: Megaride come anchor azienda, NewSteel e Startcap come hub-canale, hiring KPI come metrica del pitch. Il memo propone quattro decisioni concrete da votare al prossimo cofounder meeting, cinque accordi da chiudere entro fine luglio, e un aggiornamento del posizionamento narrativo.
+<!-- /NARRATIVE_SUMMARY -->
+
 ## Tesi
 
 **MARA deve stringere accordi quadro con un portafoglio strutturato di hub di candidati — master privati, incubatori, Camere di Commercio, business school — *prima* di promuovere le challenge alle aziende, e deve posizionarsi come outsourcing dell'HR interno (non come sostituto del recruiter esterno) per non bruciare credibilità e alleati nel settore.**

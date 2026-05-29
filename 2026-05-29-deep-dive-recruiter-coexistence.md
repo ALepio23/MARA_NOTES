@@ -34,6 +34,16 @@ updated_at: "2026-05-29T15:20:00Z"
 
 # Deep-dive — Coesistenza con il recruiter: MARA come outsourcing dell'HR interno, alleato dell'esterno
 
+<!-- NARRATIVE_SUMMARY -->
+L'errore di posizionamento più costoso per una piattaforma di hiring challenge-based è proporsi come *alternativa* al recruiter. Lo capisce immediatamente chi vende, crea due nemici (interno + esterno) per il prezzo di uno, e brucia credibilità in un settore con lobby. MARA deve costruire un'identità duale: outsourcing leggero verso l'HR interno ("sollevo, non sostituisco"), potenziale partner tecnologico verso il recruiter esterno (Adecco e Manpower come future partnership, non come concorrenti frontali).
+
+I dati di mercato 2025-2026 supportano la coesistenza in modo strutturale. Le fee delle agenzie esterne stanno tra il 15% e il 40% del primary salary; il cost-per-hire executive è cresciuto del 113% dal 2017. Il modello try-before-you-buy ha validazione cross-settore: HireVue documenta $7M di risparmio annuale in retention, Toptal mantiene un 98% trial-to-hire rate, Linear usa work trial pagato 2-5 giorni anche per ruoli senior. MARA è la versione marketplace italiana di questo modello per il segmento junior — non un'invenzione speculativa, una localizzazione di un pattern già provato altrove.
+
+Il framework chicken-and-egg dei marketplace 2-sided indica una mossa precisa: curare il talent side prima del lato domanda. Hired e Toptal hanno fatto esattamente così. Per MARA significa che l'investimento del prossimo trimestre va in cinque accordi quadro con hub di candidati, non in più sales call verso aziende — perché senza pool, le call producono fumo. È matematica di sequenza, non opinione.
+
+Il vento macro è favorevole: l'85% degli employer usa qualche forma di skills-based hiring (vs 81% nel 2024), solo il 67% considera ancora primario il CV, e Deloitte segnala che i ruoli entry-level si stanno riducendo proprio mentre cresce il bisogno di pratica osservabile. MARA fornisce quella pratica e la certifica on-chain. L'argomento da non usare è "il CV è morto" (fa sembrare l'argomento adolescenziale). L'argomento da usare è "il CV è insufficiente, aggiungiamo il pezzo che manca". Sfumatura piccola, credibilità diversa. Il deep-dive chiude rispondendo a tre obiezioni reali al posizionamento con risposte di product, non di slogan.
+<!-- /NARRATIVE_SUMMARY -->
+
 ## Tesi iniziale
 
 L'errore di posizionamento più costoso che una piattaforma di hiring challenge-based può fare è proporsi come *alternativa* al recruiter — interno o esterno. Lo capisce immediatamente chi vende al mercato e crea due nemici per il prezzo di uno. MARA deve invece costruire un'**identità duale**:

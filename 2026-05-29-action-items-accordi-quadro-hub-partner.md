@@ -34,6 +34,14 @@ updated_at: "2026-05-29T15:10:00Z"
 
 # Action items — Accordi quadro hub partner
 
+<!-- NARRATIVE_SUMMARY -->
+Dieci azioni concrete derivate dal strategy memo Roby. Le prime cinque sono accordi quadro con hub di candidati: Sole 24 Ore Business School (owner candidato Alvigi), Bocconi Master executive (Gualano), NewSteel incubatore — in continuità col Campania play (Alvigi), un incubatore al Nord come PoliHub o Talent Garden (Della Rocca), una Camera di Commercio campana (Zhubi). Deadline aggregata: **31 luglio 2026**.
+
+Le successive cinque sono infrastrutture abilitanti che servono PRIMA di firmare gli accordi: bozza del template legale standard (deadline 7 giugno), aggiornamento della voice guideline per allineare il posizionamento "outsourcing HR interno" (15 giugno), cofounder meeting con voto sui quattro punti decisionali del memo (settimana 23), riformulazione del memo Campania come primo deployment regionale del framework, e una decisione formale sulla forma giuridica degli accordi (MoU? contratto-quadro? LOI?) prima dell'invio del primo template.
+
+Cinque open questions restano in coda — la più urgente è: chi del team ha contatti caldi già aperti in Sole 24 Ore e Bocconi Master oggi? Senza warm intro, la timeline "first meeting entro 14-21 giugno" non regge. **Tutti gli owner finali vanno confermati al prossimo cofounder meeting** — quelli indicati qui sono candidati basati sui ruoli ufficiali (Marketing / Business / Operations / IT), non assegnazioni decise.
+<!-- /NARRATIVE_SUMMARY -->
+
 Derivati dal strategy memo `2026-05-29-strategy-memo-roby-gtm-recruiter.md` e dalla call Roby. Owner candidato indicato in parentesi. **Owner finale da confermare nel prossimo cofounder meeting.**
 
 ---
