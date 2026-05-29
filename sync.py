@@ -98,12 +98,15 @@ async function _maraUnlock() {
   const errEl = document.getElementById('gateError');
   errEl.hidden = true;
   try {
+    console.log('[gate] attempting decrypt — input length:', pw.length);
     const idx = await _maraDecrypt(pw);
+    console.log('[gate] decrypt OK — docs:', idx.docs && idx.docs.length);
     window.MARA_INDEX = idx;
     document.getElementById('gateOverlay').remove();
     document.body.classList.remove('locked');
     startMaraApp();
   } catch (e) {
+    console.error('[gate] decrypt failed:', e.name, e.message || '(no message)', e);
     errEl.hidden = false;
   }
 }
