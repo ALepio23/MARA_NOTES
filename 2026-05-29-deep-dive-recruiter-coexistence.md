@@ -4,7 +4,7 @@ type: deep-dive
 title: "Deep-dive — Coesistenza con il recruiter: MARA come outsourcing dell'HR interno, alleato dell'esterno"
 date: "2026-05-29"
 language: it
-summary: "Esplorazione del framework di posizionamento emerso dalla call con Roby: perché MARA deve evitare il pitch 'alternativa al recruiter esterno' e costruire invece un'identità duale di 'outsourcing dell'HR interno + alleato dell'headhunter futuro'. 11 citazioni esterne integrate con il modello MARA esistente: prova-prima-di-assumere, uovo e gallina, dinamica costi recruiter, trend skills-based hiring 2025-2026."
+summary: "Esplorazione del framework di posizionamento emerso dalla call con Roby: perché MARA deve evitare il pitch 'alternativa al recruiter esterno' e costruire invece un'identità duale di 'outsourcing dell'HR interno + alleato dell'headhunter futuro'. 11 citazioni esterne integrate con il modello MARA esistente: try-before-you-buy, uovo e gallina, dinamica costi recruiter, trend skills-based hiring 2025-2026."
 headline: "Identità duale MARA: outsourcing dell'HR interno + alleato del recruiter esterno. 11 fonti integrate, 3 obiezioni difese"
 people:
   - "Roby [advisor — cognome TBD]"
@@ -17,7 +17,7 @@ companies:
   - "Manpower"
   - "Randstad"
 mara_projects:
-  - "MARA narrative & punto di forza"
+  - "MARA narrative & UVP"
   - "Voice guidelines update"
 source_notes:
   - "Call notes Roby — fine maggio 2026 (file: Donna (Roby)_ .docx)"
@@ -38,7 +38,7 @@ updated_at: "2026-05-29T15:20:00Z"
 <!-- NARRATIVE_SUMMARY -->
 L'errore di posizionamento più costoso per MARA è venderci come *alternativa* al recruiter. Lo capisce subito chi vende: crea due nemici (HR interno + agenzia esterna) per il prezzo di uno, e brucia credibilità in un settore che ha lobby. Riformuliamo come identità duale: outsourcing leggero verso l'HR interno ("solleviamo, non sostituiamo"), potenziale tech-partner verso il recruiter esterno (Adecco e Manpower come future partnership, non come concorrenti frontali).
 
-I dati di mercato 2025-2026 sostengono la coesistenza. Le fee delle agenzie esterne stanno tra il 15% e il 40% del primary salary; il costo per assunzione executive è cresciuto del 113% dal 2017. Try-before-you-buy ha validazione cross-settore: HireVue documenta $7M di risparmio annuale in retention, Toptal mantiene un 98% trial-to-hire rate, Linear usa work trial pagato 2-5 giorni anche per ruoli senior. MARA è la versione marketplace italiana di questo modello per il segmento junior — non un'invenzione, una localizzazione di un pattern già provato altrove.
+I dati di mercato 2025-2026 sostengono la coesistenza. Le fee delle agenzie esterne stanno tra il 15% e il 40% del primary salary; il cost-per-hire executive è cresciuto del 113% dal 2017. Try-before-you-buy ha validazione cross-settore: HireVue documenta $7M di risparmio annuale in retention, Toptal mantiene un 98% trial-to-hire rate, Linear usa work trial pagato 2-5 giorni anche per ruoli senior. MARA è la versione marketplace italiana di questo modello per il segmento junior — non un'invenzione, una localizzazione di un pattern già provato altrove.
 
 Sul uovo e gallina, la mossa è chiara: curare il talent side PRIMA del lato domanda. Hired e Toptal hanno fatto esattamente così. Per noi: il prossimo trimestre va in 5 accordi di collaborazione con hub di candidati, non in più sales call verso aziende — senza pool, le call producono fumo.
 
@@ -62,13 +62,13 @@ I dati 2025-2026 sulla struttura costi del recruiting sono inequivocabili.
 
 - Il costo medio per hire interno è stimato a $5,475 (SHRM benchmark 2025)¹.
 - Le fee delle agenzie esterne — Adecco, Manpower, headhunter di profilo specialistico — si collocano tra il 15% e il 20% del primary salary per contingency search, e fino al 40% per retained search¹. Su un hire da $100K, si parla di $15K–$20K solo di fee.
-- Il costo per assunzione executive medio ha raggiunto i $35,879 nel 2025 — *+113% rispetto al 2017*².
+- Il cost-per-hire executive medio ha raggiunto i $35,879 nel 2025 — *+113% rispetto al 2017*².
 
 In Europa il dato CIPD (UK proxy per il contesto continentale) si attesta su £6,125 per hire interno⁵. L'ordine di grandezza è coerente.
 
 Cosa significa per MARA? Che il pitch *"MARA costa €5.000 per una challenge intera e ti restituisce un pool di candidati pre-valutati"* va costruito esplicitamente come **alternativa di costo all'agenzia esterna**, ma proposto come **strumento dell'HR interno** che riduce il bisogno di delegare in primo luogo. Sono due movimenti separati di pricing e positioning, che vanno tenuti distinti nei materiali di comunicazione.
 
-### 2. Il modello prova-prima-di-assumere ha già validazione di mercato — MARA è la versione marketplace
+### 2. Il modello try-before-you-buy ha già validazione di mercato — MARA è la versione marketplace
 
 Roby⁶ ha articolato il concetto con un'analogia precisa: *"È come se gli facessi un'app e gli fai un modello di sottoscrizione, subscription, gli fai il testing, il periodo di trial prima, la prova, no? Il modello della subscription, cioè tu prima provi il candidato e poi lo compri."*
 
@@ -94,9 +94,9 @@ Platform Chronicles⁹ identifica quattro strategie operative per il cold-start:
 - Single-Side Mode (offrire valore standalone su un lato prima di attivare l'altro)
 - Bring-Your-Own-Demand (l'azienda partner porta la sua audience)
 - Fake One Side (DoorDash che postava menu manualmente per simulare offerta)
-- Change Expectations via primo cliente faros
+- Change Expectations via anchor tenants
 
-**Per MARA la strategia naturale è una combinazione di (1) e (4)**: offrire valore standalone agli studenti (la credenziale SBT è di per sé un asset di portfolio anche senza una challenge attiva⁸) + sfruttare TLC come primo cliente faro che valida il modello per il lato aziendale.
+**Per MARA la strategia naturale è una combinazione di (1) e (4)**: offrire valore standalone agli studenti (la credenziale SBT è di per sé un asset di portfolio anche senza una challenge attiva⁸) + sfruttare TLC come anchor tenant che valida il modello per il lato aziendale.
 
 Il caso Hired¹⁰ è il riferimento più diretto: *"Hired interviews applicants and gives top performers access to the platform where companies can send them interview requests."* Stessa logica: cura del talent side, attivazione del corporate side a valle. Toptal applica lo stesso pattern in altra forma.
 
@@ -173,7 +173,7 @@ Significa che il pitch è già implicito nel prodotto. Non va costruito ex-novo 
 
 4. **Per il pitch deck.** Serve un'iterazione che renda esplicito il framework "alleato non disruptor". Deadline ragionevole: 30 giugno 2026 — in tempo per il prossimo round di intro a investor e aziende.
 
-5. **Per la pricing strategy.** I benchmark costo per assunzione¹ ² ⁵ supportano un eventuale futuro pricing tier "Enterprise" oltre il €5K standard per aziende con volumi superiori. Discussione da rimandare a Q4 2026 quando ci sono almeno 3 challenge nuove chiuse e dati di traction misurabili.
+5. **Per la pricing strategy.** I benchmark cost-per-hire¹ ² ⁵ supportano un eventuale futuro pricing tier "Enterprise" oltre il €5K standard per aziende con volumi superiori. Discussione da rimandare a Q4 2026 quando ci sono almeno 3 challenge nuove chiuse e dati di traction misurabili.
 
 ## Domande a cui dobbiamo rispondere
 
@@ -186,9 +186,9 @@ Quattro punti che il deep-dive lascia aperti e che servono per portare il framew
 
 ## Bibliografia
 
-[¹] SHRM 2025 Benchmark via Pin — "Cost Per Hire Benchmarks" — https://www.pin.com/blog/costo per assunzione-benchmarks/
+[¹] SHRM 2025 Benchmark via Pin — "Cost Per Hire Benchmarks" — https://www.pin.com/blog/cost-per-hire-benchmarks/
 
-[²] SHRM 2025 — Executive costo per assunzione trend +113% from 2017 (stessa fonte di [1])
+[²] SHRM 2025 — Executive cost-per-hire trend +113% from 2017 (stessa fonte di [1])
 
 [³] HireVue — Virtual Job Tryout — $7M annual savings, 4× top performer probability — https://www.hirevue.com/platform/assessment-software/virtual-job-tryout
 
@@ -225,3 +225,13 @@ Quattro punti che il deep-dive lascia aperti e che servono per portare il framew
 [¹⁹] Strategy memo `2026-05-29-strategy-memo-roby-gtm-recruiter.md` — 4 punti decisionali
 
 [²⁰] `memory/project_mara.md` — Ruoli co-founder ufficiali (Alvigi = Marketing Specialist)
+
+---
+
+## Glossario termini
+
+_Termini tecnici usati in questo doc. Il glossario cresce mano a mano che ne incontriamo di nuovi._
+
+- **cost-per-hire** — Costo totale per portare a casa un'assunzione: tempo dell'HR + eventuali fee di agenzia + strumenti. Benchmark 2025: in crescita, soprattutto sui ruoli senior.
+- **anchor** — Il primo cliente/partner di riferimento che fa da àncora: valida il modello e sblocca la conversazione con tutti gli altri simili a lui. Es: Megaride per la Campania, TLC per il segmento hospitality.
+- **UVP (Unique Value Proposition)** — Il punto di forza unico: ciò che ci rende diversi e preferibili rispetto alle alternative (recruiter tradizionale, job board, ATS). Per MARA = prova-prima-di-assumere + verticalizzazione + velocità.

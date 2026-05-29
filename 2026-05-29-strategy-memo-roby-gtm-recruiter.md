@@ -45,7 +45,7 @@ Roby ci ha detto due cose grosse. Una: gli accordi con gli hub di candidati (mas
 
 Due: non posizioniamoci come "alternativa al recruiter". È il modo più veloce per farci due nemici per il prezzo di uno (HR interno + agenzia esterna) e perdere credibilità in un settore che ha lobby. Riformuliamo: outsourcing dell'HR interno (che ringrazia perché ha meno CV da leggere) e potenziale tech-partner futuro del recruiter esterno (Adecco, Manpower). Sfumatura piccola, conseguenze grosse.
 
-Tutto questo torna sul Campania play che già abbiamo: Megaride come primo cliente di riferimento, NewSteel + Startcap come canali, hiring KPI come metrica del pitch. Non è iniziativa separata — è la prima istanza operativa del framework Roby. Il memo propone quattro mosse da decidere al prossimo cofounder meeting.
+Tutto questo torna sul Campania play che già abbiamo: Megaride come anchor, NewSteel + Startcap come canali, hiring KPI come metrica del pitch. Non è iniziativa separata — è la prima istanza operativa del framework Roby. Il memo propone quattro mosse da decidere al prossimo cofounder meeting.
 <!-- /NARRATIVE_SUMMARY -->
 
 ## Contesto
@@ -66,7 +66,7 @@ Tre cose che cambiano per noi se prendiamo seriamente quello che Roby ha messo i
 
 **Il bacino oggi è quasi monoculturale H-FARM³.** Significa che la prossima azienda che ci chiede "ok, su quali studenti?" trova ancora H-FARM. Per il modello MARA — verticalizzazione del pool per settore e seniority — questo non scala. Senza 3-5 accordi di collaborazione nuovi entro fine luglio, la prossima challenge new-after-TLC parte ancora con un signal di sotto-scala verso le aziende.
 
-**Il Campania play non è un'iniziativa separata.** Il memo Campania (26 maggio)⁴ aveva già articolato 5 thread (Megaride come primo cliente di riferimento, hiring KPI come leva, NewSteel + Startcap come canali, patrocinio). Il framework Roby fornisce il principio organizzativo che lega quei 5 thread sotto un'unica logica: la sequenza accordi-prima. Va riformulato come *prima istanza geo-specifica del framework*, non come progetto a sé.
+**Il Campania play non è un'iniziativa separata.** Il memo Campania (26 maggio)⁴ aveva già articolato 5 thread (Megaride come anchor, hiring KPI come leva, NewSteel + Startcap come canali, patrocinio). Il framework Roby fornisce il principio organizzativo che lega quei 5 thread sotto un'unica logica: la sequenza accordi-prima. Va riformulato come *prima istanza geo-specifica del framework*, non come progetto a sé.
 
 ## Brainstorming
 
@@ -76,7 +76,7 @@ Quattro angolazioni che valgono la pena tenere in mente.
 
 **Quale aggancio offrire all'hub.** Non è "fate il favore a MARA". È win-win: il loro studente medio cerca uno sbocco; noi gli mettiamo davanti aziende reali. Loro non fanno niente di operativo — noi gestiamo brief, sprint, valutazione, SBT. Loro firmano e ci mandano gli studenti. Realistico per Sole 24 Ore (i loro master hanno career service e numeri da rendicontare).
 
-**Aggancio commerciale aggiornato verso le aziende.** Cambiare il primo frame: non più "alternativa al recruiter". Sostituire con "outsourcing dello screening junior, con prova osservabile sul brief vostro prima dell'assunzione". I dati di mercato 2025 sostengono il pitch: costo per assunzione executive +113% dal 2017⁵, modello prova-prima-di-assumere validato da HireVue ($7M savings/anno), Toptal (98% trial-to-hire)⁶. MARA è la versione italiana junior di un modello già provato altrove — non un'invenzione.
+**Aggancio commerciale aggiornato verso le aziende.** Cambiare il primo frame: non più "alternativa al recruiter". Sostituire con "outsourcing dello screening junior, con prova osservabile sul brief vostro prima dell'assunzione". I dati di mercato 2025 sostengono il pitch: cost-per-hire executive +113% dal 2017⁵, modello try-before-you-buy validato da HireVue ($7M savings/anno), Toptal (98% trial-to-hire)⁶. MARA è la versione italiana junior di un modello già provato altrove — non un'invenzione.
 
 **Recruiter esterni come futuri partner.** Adecco, Manpower, headhunter boutique non sono target di sostituzione. Sono — in prospettiva Q4 2026+ — tech-partner: loro vendono persone, noi vendiamo metodologia di valutazione e SBT come prova on-chain. Costruire la narrativa "alleati" da subito, anche se la partnership reale arriva dopo.
 
@@ -98,7 +98,7 @@ Distribuzione degli owner si decide al meeting.
 
 **3. Aggiornare voice e pitch deck.** Eliminare "alternativa al recruiter" da tutti i materiali. Sostituire con "outsourcing HR interno + alleato esterno". Deadline 15 giugno 2026. Output: revisione di `mara-context/voice.md` + revisione pitch deck.
 
-**4. Riformulare il Campania play come prima applicazione concreta in una regione del framework.** Aggiornare il memo Campania⁴ con riferimento esplicito al framework Roby. Deadline 14 giugno 2026.
+**4. Riformulare il Campania play come primo deployment regionale del framework.** Aggiornare il memo Campania⁴ con riferimento esplicito al framework Roby. Deadline 14 giugno 2026.
 
 **Sequenza esecutiva** (se votiamo sì sui 4 punti):
 - Oggi: memo nel canale co-founder, reazioni entro 48h
@@ -124,8 +124,18 @@ Sei punti aperti che dobbiamo chiudere al prossimo cofounder meeting o nei giorn
 [²] `mara-context/products.md` + `mara-context/partners.md` — TLC challenge chiusa 21 aprile 2026; SBT MARA-2026-0043 emessa 10 maggio 2026 su Polygon mainnet.
 [³] `mara-context/relationships.md` — H-FARM come contesto fondante e fornitore base studenti attuale.
 [⁴] `memory/project_campania_play.md` + `2026-05-26-strategy-memo-campania-megaride.md` (in repo) — i 5 thread del Campania play.
-[⁵] SHRM 2025 Benchmark via Pin — "Cost Per Hire Benchmarks" — https://www.pin.com/blog/costo per assunzione-benchmarks/
-[⁶] HireVue Virtual Job Tryout (https://www.hirevue.com/platform/assessment-software/virtual-job-tryout) + Toptal Top 3% (https://www.toptal.com/top-3-percent) — modello prova-prima-di-assumere validato cross-settore.
+[⁵] SHRM 2025 Benchmark via Pin — "Cost Per Hire Benchmarks" — https://www.pin.com/blog/cost-per-hire-benchmarks/
+[⁶] HireVue Virtual Job Tryout (https://www.hirevue.com/platform/assessment-software/virtual-job-tryout) + Toptal Top 3% (https://www.toptal.com/top-3-percent) — modello try-before-you-buy validato cross-settore.
+
+---
+
+## Glossario termini
+
+_Termini tecnici usati in questo doc. Il glossario cresce mano a mano che ne incontriamo di nuovi._
+
+- **cost-per-hire** — Costo totale per portare a casa un'assunzione: tempo dell'HR + eventuali fee di agenzia + strumenti. Benchmark 2025: in crescita, soprattutto sui ruoli senior.
+- **deployment** — Applicazione concreta di una strategia in un contesto reale. Es: "primo deployment regionale" = prima volta che mettiamo a terra il modello in una regione specifica (Campania).
+- **anchor** — Il primo cliente/partner di riferimento che fa da àncora: valida il modello e sblocca la conversazione con tutti gli altri simili a lui. Es: Megaride per la Campania, TLC per il segmento hospitality.
 
 <!-- EN_BODY -->
 # Strategy memo — GTM MARA: pool first, then partner hubs, then coexist with recruiters

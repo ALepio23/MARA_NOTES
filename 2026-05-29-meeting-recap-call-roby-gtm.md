@@ -4,7 +4,7 @@ type: meeting-recap
 title: "Meeting recap — Call con Roby (advisor) su strategia GTM MARA"
 date: "2026-05-29"
 language: it
-summary: "Call di consulenza strategica con Roby (advisor) e Alessandro su sequenza go-to-market MARA. Argomenti coperti: accordi di collaborazione hub partner prima delle challenge, taxonomia hub (master/incubatori/CdC/università), posizionamento vs recruiter, punto di forza prova-prima-di-assumere, scalabilità junior-prima-professional. Rita Zhubi e Michele Gualano presenti ai saluti finali. Nessuna decisione formale presa — output sono raccomandazioni strategiche che alimentano il strategy memo e gli action items dello stesso giorno."
+summary: "Call di consulenza strategica con Roby (advisor) e Alessandro su sequenza go-to-market MARA. Argomenti coperti: accordi di collaborazione hub partner prima delle challenge, taxonomia hub (master/incubatori/CdC/università), posizionamento vs recruiter, UVP try-before-you-buy, scalabilità junior-prima-professional. Rita Zhubi e Michele Gualano presenti ai saluti finali. Nessuna decisione formale presa — output sono raccomandazioni strategiche che alimentano il strategy memo e gli action items dello stesso giorno."
 headline: "Archivio call advisory con Roby (29 mag). Format conversazionale, framework GTM emergente, 4 domande aperte"
 people:
   - "Roby [advisor — cognome TBD]"
@@ -37,7 +37,7 @@ updated_at: "2026-05-29T15:30:00Z"
 <!-- NARRATIVE_SUMMARY -->
 Call con Roby (advisor) sul nostro go-to-market. Format conversazionale: lei parla, MARA reagisce e conferma. Rita e Michele presenti almeno ai saluti finali. Data: 29 maggio 2026.
 
-Temi coperti in ordine: la sequenza accordi-prima-delle-challenge come principio organizzativo; taxonomia degli hub (master privati e business school come priorità per velocità); posizionamento delicato verso i recruiter (alleati dell'esterno, complemento dell'interno); punto di forza basato su prova-prima-di-assumere + verticalizzazione + velocità; scelta di partire da junior e scalare al professional dopo.
+Temi coperti in ordine: la sequenza accordi-prima-delle-challenge come principio organizzativo; taxonomia degli hub (master privati e business school come priorità per velocità); posizionamento delicato verso i recruiter (alleati dell'esterno, complemento dell'interno); UVP basata su try-before-you-buy + verticalizzazione + velocità; scelta di partire da junior e scalare al professional dopo.
 
 Nessuna decisione formale — il formato era advisory. Le decisioni operative sono finite nel strategy memo dello stesso giorno e vanno al cofounder meeting della settimana 23. Questo recap è l'archivio neutrale della call — il framing strategico vive nel memo, gli action items operativi nel doc dedicato.
 <!-- /NARRATIVE_SUMMARY -->
@@ -82,7 +82,7 @@ Argomento più articolato della call. Sintesi:
 
 Distinzione esplicita tra recruiter interno (stipendio fisso, MARA gli alleggerisce il lavoro senza intaccare la sua posizione economica) e recruiter esterno (Adecco/Manpower pagati a numerosità — MARA potenzialmente percepita come competitor diretto).
 
-### 4. punto di forza unico
+### 4. Unique Value Proposition
 
 Tre pilastri identificati per il pitch verso aziende:
 
@@ -109,7 +109,7 @@ Non è stato discusso il pricing verso aziende partner — quello rimane su €5
 1. La sequenza giusta è **accordi di collaborazione standardizzati → bacino candidati pronto → vendita alle aziende**. Invertirla è inefficiente.
 2. **Hub partner privati prima dei pubblici** (master, business school, incubatori prima delle università pubbliche).
 3. **Coesistenza con i recruiter**, non sostituzione. Alleati dell'esterno, complemento dell'interno.
-4. **punto di forza basato su prova-prima-di-assumere + verticalizzazione + velocità** — non sulle credenziali on-chain (queste sono asset di sistema (non da elevator pitch), non frase di apertura).
+4. **UVP basato su try-before-you-buy + verticalizzazione + velocità** — non sulle credenziali on-chain (queste sono asset di backbone, non frase di apertura).
 5. **Junior-first, professional-later**.
 6. **Velocità di chiusura challenge è critica** — più di 4 mesi e l'azienda preferisce il canale tradizionale.
 
@@ -143,3 +143,12 @@ Quattro punti che la call ha sollevato ma non ha chiuso, e che restano in attesa
 [²] `mara-context/products.md` — Pricing €5K flat per challenge MARA
 [³] Strategy memo `2026-05-29-strategy-memo-roby-gtm-recruiter.md` — argomentazione strategica completa
 [⁴] `memory/project_mara.md` — Profilo MARA verificato da documenti ufficiali (brief, pitch deck, integration plan, Guida Azienda)
+
+---
+
+## Glossario termini
+
+_Termini tecnici usati in questo doc. Il glossario cresce mano a mano che ne incontriamo di nuovi._
+
+- **backbone** — La spina dorsale operativa: il sistema che fa girare tutto dietro le quinte. Per MARA = la piattaforma marachallenge.com + la pipeline SBT su Polygon.
+- **UVP (Unique Value Proposition)** — Il punto di forza unico: ciò che ci rende diversi e preferibili rispetto alle alternative (recruiter tradizionale, job board, ATS). Per MARA = prova-prima-di-assumere + verticalizzazione + velocità.

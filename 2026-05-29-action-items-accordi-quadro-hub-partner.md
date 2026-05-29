@@ -40,7 +40,7 @@ Le cose che dobbiamo far succedere se prendiamo seriamente quello che Roby ha de
 
 La distribuzione degli owner si decide insieme al meeting della settimana 23 — quelli che mancano qui non sono assegnazioni preventive ma cose che il team deve far succedere come team.
 
-Sei domande aperte che bloccano l'avvio della sequenza. La più urgente è quella che vale per tutti gli accordi: chi del team ha contatti caldi già attivi in Sole 24 Ore e Bocconi Master? Senza presentazione da un contatto fidato, le date di first contact non reggono.
+Sei domande aperte che bloccano l'avvio della sequenza. La più urgente è quella che vale per tutti gli accordi: chi del team ha contatti caldi già attivi in Sole 24 Ore e Bocconi Master? Senza warm intro, le date di first contact non reggono.
 <!-- /NARRATIVE_SUMMARY -->
 
 ## Contesto
@@ -79,7 +79,7 @@ Stringere **cinque accordi di collaborazione** con hub di candidati che diventan
 
 ### Priorità 3 — Allineamento strategico (entro il 7 giugno 2026)
 
-8. **Cofounder meeting con voto sui 4 punti decisionali del strategy memo.** Punti da votare: (a) sospendere lo sviluppo prodotto incrementale per 60 giorni, (b) target 5 accordi entro il 31 luglio, (c) aggiornamento voice, (d) riformulazione del Campania play come prima applicazione concreta in una regione. Distribuzione degli owner sui 5 accordi decisa nello stesso meeting.
+8. **Cofounder meeting con voto sui 4 punti decisionali del strategy memo.** Punti da votare: (a) sospendere lo sviluppo prodotto incrementale per 60 giorni, (b) target 5 accordi entro il 31 luglio, (c) aggiornamento voice, (d) riformulazione del Campania play come primo deployment regionale. Distribuzione degli owner sui 5 accordi decisa nello stesso meeting.
 
 9. **Memo Campania riformulato** — entro il 14 giugno. Aggiunta del riferimento al framework Roby come principio organizzativo. Risuddivisione dei 5 thread (Megaride, hiring KPI, NewSteel, Startcap, patrocinio) sotto la nuova taxonomia hub. File da aggiornare: `2026-05-26-strategy-memo-campania-megaride.md`.
 
@@ -95,7 +95,7 @@ Stringere **cinque accordi di collaborazione** con hub di candidati che diventan
 
 Sei punti che bloccano l'avvio della sequenza. Vanno chiusi nel cofounder meeting della settimana 23 o nei giorni precedenti.
 
-- Chi ha contatti caldi già aperti in Sole 24 Ore Business School? Senza presentazione da un contatto fidato, il first contact al 14 giugno non regge.
+- Chi ha contatti caldi già aperti in Sole 24 Ore Business School? Senza warm intro, il first contact al 14 giugno non regge.
 - Chi ha contatti caldi in Bocconi Master Executive?
 - Chi apre il tavolo con la Camera di Commercio campana scelta?
 - Quale forma giuridica adottiamo per l'accordo di collaborazione standard?
@@ -104,6 +104,16 @@ Sei punti che bloccano l'avvio della sequenza. Vanno chiusi nel cofounder meetin
 
 ## Fonti
 
-[¹] `memory/project_campania_play.md` — Campania play thread (Megaride come primo cliente di riferimento + NewSteel + Startcap + hiring KPI + patrocinio)
+[¹] `memory/project_campania_play.md` — Campania play thread (Megaride come anchor + NewSteel + Startcap + hiring KPI + patrocinio)
 [²] Strategy memo `2026-05-29-strategy-memo-roby-gtm-recruiter.md` — argomentazione strategica completa dietro queste azioni
 [³] Call notes con Roby — 29 maggio 2026 (file: `Donna (Roby)_ .docx`)
+
+---
+
+## Glossario termini
+
+_Termini tecnici usati in questo doc. Il glossario cresce mano a mano che ne incontriamo di nuovi._
+
+- **deployment** — Applicazione concreta di una strategia in un contesto reale. Es: "primo deployment regionale" = prima volta che mettiamo a terra il modello in una regione specifica (Campania).
+- **warm intro** — Presentazione fatta da un contatto fidato in comune, invece di un contatto a freddo. Riduce la diffidenza iniziale e accorcia il ciclo di vendita. Es: Eric che ci presenta alle associazioni.
+- **anchor** — Il primo cliente/partner di riferimento che fa da àncora: valida il modello e sblocca la conversazione con tutti gli altri simili a lui. Es: Megaride per la Campania, TLC per il segmento hospitality.

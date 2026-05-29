@@ -60,7 +60,7 @@ Tre tracce parallele: prima short-list e intro (priorità 1), articolo Future of
 
 ### Priorità 2 — Articolo Forbes Future of Work (entro 30 giugno 2026)
 
-5. **Draft articolo "Future of Work" per Forbes online** — bozza pronta entro 21 giugno. ~1500 parole. Tesi: "Il CV è insufficiente, aggiungiamo prova osservabile". Struttura: contesto mercato 2025 (saturazione, ATS che livella i CV, costo per assunzione +113% — fonti SHRM/TestGorilla/Deloitte) → tesi MARA → caso TLC come prova → invito alla collaborazione. Voice: MARA team, peer, evidence-led.
+5. **Draft articolo "Future of Work" per Forbes online** — bozza pronta entro 21 giugno. ~1500 parole. Tesi: "Il CV è insufficiente, aggiungiamo prova osservabile". Struttura: contesto mercato 2025 (saturazione, ATS che livella i CV, cost-per-hire +113% — fonti SHRM/TestGorilla/Deloitte) → tesi MARA → caso TLC come prova → invito alla collaborazione. Voice: MARA team, peer, evidence-led.
 
 6. **Materiali per la pubblicazione** — entro 25 giugno. Foto orizzontale di copertina (~1500x800 px, MARA brand-coerente), foto autore con sfondo neutro, bio impersonale 4-5 righe. Tutto consegnato a Eric con l'articolo finale.
 
@@ -83,7 +83,7 @@ Sei punti che bloccano l'avvio o creano ambiguità nelle azioni. Vanno chiusi al
 - Quali 3-5 associazioni Next Leaders andranno nella prima short-list oltre Human + Campus Venture? Da decidere collettivamente con la lista Eric davanti.
 - Eric va formalizzato come advisor? Equity, consulenza retribuita, relazione informale? La call non ha definito un perimetro.
 - Career Day H-FARM con MARA come challenge-host: a che punto è il discorso, e va incrociato con questi intro (Human è dentro H-FARM)?
-- Il pitch in call è andato bene con Eric. Va consolidato come versione canonica del punto di forza MARA e portato nel pitch deck. Chi tiene aggiornato il pitch deck?
+- Il pitch in call è andato bene con Eric. Va consolidato come versione canonica della UVP MARA e portato nel pitch deck. Chi tiene aggiornato il pitch deck?
 
 ## Fonti
 
@@ -91,3 +91,13 @@ Sei punti che bloccano l'avvio o creano ambiguità nelle azioni. Vanno chiusi al
 [²] Call con Eric / Forbes Next Leaders — 2 giugno 2026 (transcript).
 [³] `2026-05-29-strategy-memo-roby-gtm-recruiter.md` — framework "accordi-prima-delle-challenge".
 [⁴] `mara-context/relationships.md` — H-FARM come ecosistema fondante (Human + Campus Venture sono associazioni interne).
+
+---
+
+## Glossario termini
+
+_Termini tecnici usati in questo doc. Il glossario cresce mano a mano che ne incontriamo di nuovi._
+
+- **cost-per-hire** — Costo totale per portare a casa un'assunzione: tempo dell'HR + eventuali fee di agenzia + strumenti. Benchmark 2025: in crescita, soprattutto sui ruoli senior.
+- **fit** — Compatibilità tra candidato e posizione/azienda: non solo competenze, ma anche valori, processi, motivazione. Un buon fit riduce il job hopping.
+- **UVP (Unique Value Proposition)** — Il punto di forza unico: ciò che ci rende diversi e preferibili rispetto alle alternative (recruiter tradizionale, job board, ATS). Per MARA = prova-prima-di-assumere + verticalizzazione + velocità.

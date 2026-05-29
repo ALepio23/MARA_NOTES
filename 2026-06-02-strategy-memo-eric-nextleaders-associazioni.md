@@ -56,7 +56,7 @@ Tre cose che cambiano per noi se prendiamo seriamente quello che Eric ha messo i
 
 **Le università come istituzioni escono dal Year-1.** Il framework Roby (29 mag) le aveva già messe in "priorità 2 — pipeline a medio termine". Eric ci fa fare un passo in più: per la fase di lancio, salta direttamente sulle associazioni studentesche, che vivono dentro le università ma non passano per il rettore. *Citation Eric: "a Cattolica chi fa da garante è la Cattolica, non dovete pensare che non lo faccia. A voi basta uno studente che si iscrive, non vi interessa che ci sia scritto il logo della Cattolica."* Il logo non serve. La popolazione studenti sì.
 
-**Le associazioni sono hub-partner nel senso esatto di Roby.** Funzionano come intermediari verso una popolazione di candidati pronti. La differenza rispetto a Sole 24 Ore Business School o Bocconi Master Executive: l'accordo si chiude in giorni invece che settimane perché l'associazione decide da sola (no rettorato), e Eric fa l'intro come terzo neutrale (no problema del contatto freddo). Praticamente il canale più veloce che abbiamo finora.
+**Le associazioni sono hub-partner nel senso esatto di Roby.** Funzionano come intermediari verso una popolazione di candidati pronti. La differenza rispetto a Sole 24 Ore Business School o Bocconi Master Executive: l'accordo si chiude in giorni invece che settimane perché l'associazione decide da sola (no rettorato), e Eric fa l'intro come terzo neutrale (no warm-cold problem). Praticamente il canale più veloce che abbiamo finora.
 
 **Forbes Future of Work è un canale di contenuti gratuito che vale la pena attivare subito.** Articolo nostro pubblicato su Forbes online (non cartaceo) sul tema challenge-based hiring + foto autore. Costo: tempo di scrittura. Beneficio: SEO + credibilità + materiale spendibile in tutte le call commerciali successive. Sproporzione assoluta.
 
@@ -66,11 +66,11 @@ Quattro angolazioni che valgono la pena tenere in mente.
 
 **Sequenza di apertura associazioni.** Eric raccomanda Human + Campus Venture (H-FARM) come primo step. Pragmatico — sono nel nostro ecosistema, validation veloce, signal positivo per la rete. Dopo il primo successo lì, andiamo veneto (UniPD, Ca' Foscari, ecc.) attraverso le loro associazioni. Poi Lombardia/Piemonte/Lazio. Eric ci da la lista completa — la sfogliamo, segniamo quelle in fit (master, business school, ingegneria, design — settori dove le challenge tirano), e gliele passiamo per intro.
 
-**Forbes Future of Work — argomento dell'articolo.** Il tema naturale è il framework Roby + i dati di mercato che abbiamo già raccolto (HireVue $7M savings, Toptal 98% trial-to-hire, SHRM costo per assunzione +113%). Articolo target ~1500 parole, tesi: "Il CV è insufficiente, aggiungiamo prova osservabile". Stesso framing che dobbiamo usare nelle nuove pitch a partner. Vale come **rinforzo del posizionamento** + ci da un link Forbes da mostrare nelle prime intro.
+**Forbes Future of Work — argomento dell'articolo.** Il tema naturale è il framework Roby + i dati di mercato che abbiamo già raccolto (HireVue $7M savings, Toptal 98% trial-to-hire, SHRM cost-per-hire +113%). Articolo target ~1500 parole, tesi: "Il CV è insufficiente, aggiungiamo prova osservabile". Stesso framing che dobbiamo usare nelle nuove pitch a partner. Vale come **rinforzo del posizionamento** + ci da un link Forbes da mostrare nelle prime intro.
 
 **Rapporto Eric → CRM.** Eric va trattato come **advisor di rete** — non advisor strategico (quello è Roby), ma advisor di accesso. Vale la pena formalizzare: gli mandiamo aggiornamenti regolari (mensile?) su cosa abbiamo chiuso grazie ai suoi intro, lui ci da feedback, mantiene il flusso aperto. Da inserire in `mara-context/partners.md` (o nuovo file `advisors.md`).
 
-**Effetto compounding con il pitch articolato in call.** Durante la call Alessandro e il socio MARA hanno articolato il punto di forza molto bene: 30 vs 300 colloqui, tempo per assumere 2.5 mesi, cambio frequente di lavoro ai massimi, classifica dei candidati migliori dei 5 standout consegnata al recruiter. Eric ha confermato che convince. Quel pitch va consolidato come **versione corrente** del punto di forza MARA e usato in tutte le call associazioni + nel pitch deck aggiornato per il framework Roby.
+**Effetto compounding con il pitch articolato in call.** Durante la call Alessandro e il socio MARA hanno articolato la value proposition molto bene: 30 vs 300 colloqui, time-to-hire 2.5 mesi, job hopping ai massimi, ranking list dei 5 standout consegnata al recruiter. Eric ha confermato che convince. Quel pitch va consolidato come **versione corrente** della UVP MARA e usato in tutte le call associazioni + nel pitch deck aggiornato per il framework Roby.
 
 ## Soluzioni possibili
 
@@ -80,7 +80,7 @@ Cinque mosse concrete, da decidere insieme al prossimo cofounder meeting.
 
 **2. Sfogliare la lista Next Leaders entro 7 giugno.** Identificare le top 5-7 associazioni in fit con MARA (per università ricca di studenti tech/business/design + per dimensione del bacino). Mandare a Eric la prima short-list per le intro.
 
-**3. Aprire i due intro H-FARM (Human + Campus Venture) entro 14 giugno.** Sono i due "vittorie facili" per definizione. Dopo questi, abbiamo il primo signal di come funziona il modello e cosa migliorare nel pitch verso associazioni.
+**3. Aprire i due intro H-FARM (Human + Campus Venture) entro 14 giugno.** Sono i due "free wins" per definizione. Dopo questi, abbiamo il primo signal di come funziona il modello e cosa migliorare nel pitch verso associazioni.
 
 **4. Scrivere e pubblicare l'articolo Future of Work entro 30 giugno.** Argomento: framework challenge-based hiring + dati di mercato. Materiali da preparare: articolo (~1500 parole), foto orizzontale di copertina, foto autore con sfondo neutro, bio impersonale di 4-5 righe. Output del lavoro lo riusiamo sul nostro sito + nei pitch deck.
 
@@ -110,6 +110,21 @@ Cinque punti aperti che dobbiamo chiudere al prossimo cofounder meeting.
 [³] `2026-05-29-strategy-memo-roby-gtm-recruiter.md` — framework "accordi-prima-delle-challenge" che questo memo estende.
 [⁴] `memory/project_campania_play.md` — i 5 thread del Campania play; le associazioni Next Leaders ci si infilano dentro come canale parallelo.
 [⁵] Forbes Next Leaders — community Forbes per associazioni studentesche italiane, ~74 associazioni in network.
+
+---
+
+## Glossario termini
+
+_Termini tecnici usati in questo doc. Il glossario cresce mano a mano che ne incontriamo di nuovi._
+
+- **time-to-hire** — Tempo tra l'apertura di una posizione e l'assunzione effettiva. Più è basso, meglio è — è uno dei due numeri-chiave del nostro pitch alle aziende.
+- **cost-per-hire** — Costo totale per portare a casa un'assunzione: tempo dell'HR + eventuali fee di agenzia + strumenti. Benchmark 2025: in crescita, soprattutto sui ruoli senior.
+- **warm intro** — Presentazione fatta da un contatto fidato in comune, invece di un contatto a freddo. Riduce la diffidenza iniziale e accorcia il ciclo di vendita. Es: Eric che ci presenta alle associazioni.
+- **job hopping** — Il fenomeno per cui le persone cambiano lavoro molto di frequente (es. ogni 6-12 mesi). Ai massimi storici tra i giovani — è uno dei problemi che il "fit" della challenge punta a ridurre.
+- **free wins** — Vittorie facili: opportunità a basso sforzo e alta probabilità di successo, da cogliere per prime. Es: le associazioni di H-FARM, già nel nostro ecosistema.
+- **ranking list** — Classifica dei candidati migliori prodotta a fine challenge, ordinata per qualità del lavoro consegnato. È il deliverable concreto che consegniamo al recruiter.
+- **fit** — Compatibilità tra candidato e posizione/azienda: non solo competenze, ma anche valori, processi, motivazione. Un buon fit riduce il job hopping.
+- **UVP (Unique Value Proposition)** — Il punto di forza unico: ciò che ci rende diversi e preferibili rispetto alle alternative (recruiter tradizionale, job board, ATS). Per MARA = prova-prima-di-assumere + verticalizzazione + velocità.
 
 <!-- EN_BODY -->
 # Strategy memo — Next Leaders unlock: 74 student associations as partner channel (skip universities)
