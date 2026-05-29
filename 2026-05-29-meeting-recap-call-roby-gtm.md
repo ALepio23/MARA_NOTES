@@ -4,7 +4,7 @@ type: meeting-recap
 title: "Meeting recap — Call con Roby (advisor) su strategia GTM MARA"
 date: "2026-05-29"
 language: it
-summary: "Call di consulenza strategica con Roby (advisor) e Alessandro su sequenza go-to-market MARA. Argomenti coperti: accordi quadro hub partner prima delle challenge, taxonomia hub (master/incubatori/CdC/università), posizionamento vs recruiter, UVP try-before-you-buy, scalabilità junior-prima-professional. Rita Zhubi e Michele Gualano presenti ai saluti finali. Nessuna decisione formale presa — output sono raccomandazioni strategiche che alimentano il strategy memo e gli action items dello stesso giorno."
+summary: "Call di consulenza strategica con Roby (advisor) e Alessandro su sequenza go-to-market MARA. Argomenti coperti: accordi di collaborazione hub partner prima delle challenge, taxonomia hub (master/incubatori/CdC/università), posizionamento vs recruiter, punto di forza prova-prima-di-assumere, scalabilità junior-prima-professional. Rita Zhubi e Michele Gualano presenti ai saluti finali. Nessuna decisione formale presa — output sono raccomandazioni strategiche che alimentano il strategy memo e gli action items dello stesso giorno."
 headline: "Archivio call advisory con Roby (29 mag). Format conversazionale, framework GTM emergente, 4 domande aperte"
 people:
   - "Roby [advisor — cognome TBD]"
@@ -37,7 +37,7 @@ updated_at: "2026-05-29T15:30:00Z"
 <!-- NARRATIVE_SUMMARY -->
 Call con Roby (advisor) sul nostro go-to-market. Format conversazionale: lei parla, MARA reagisce e conferma. Rita e Michele presenti almeno ai saluti finali. Data: 29 maggio 2026.
 
-Temi coperti in ordine: la sequenza accordi-prima-delle-challenge come principio organizzativo; taxonomia degli hub (master privati e business school come priorità per velocità); posizionamento delicato verso i recruiter (alleati dell'esterno, complemento dell'interno); UVP basata su try-before-you-buy + verticalizzazione + velocità; scelta di partire da junior e scalare al professional dopo.
+Temi coperti in ordine: la sequenza accordi-prima-delle-challenge come principio organizzativo; taxonomia degli hub (master privati e business school come priorità per velocità); posizionamento delicato verso i recruiter (alleati dell'esterno, complemento dell'interno); punto di forza basato su prova-prima-di-assumere + verticalizzazione + velocità; scelta di partire da junior e scalare al professional dopo.
 
 Nessuna decisione formale — il formato era advisory. Le decisioni operative sono finite nel strategy memo dello stesso giorno e vanno al cofounder meeting della settimana 23. Questo recap è l'archivio neutrale della call — il framing strategico vive nel memo, gli action items operativi nel doc dedicato.
 <!-- /NARRATIVE_SUMMARY -->
@@ -82,7 +82,7 @@ Argomento più articolato della call. Sintesi:
 
 Distinzione esplicita tra recruiter interno (stipendio fisso, MARA gli alleggerisce il lavoro senza intaccare la sua posizione economica) e recruiter esterno (Adecco/Manpower pagati a numerosità — MARA potenzialmente percepita come competitor diretto).
 
-### 4. Unique Value Proposition
+### 4. punto di forza unico
 
 Tre pilastri identificati per il pitch verso aziende:
 
@@ -106,10 +106,10 @@ Non è stato discusso il pricing verso aziende partner — quello rimane su €5
 
 ## Brainstorming — idee chiave emerse
 
-1. La sequenza giusta è **accordi quadro standardizzati → bacino candidati pronto → vendita alle aziende**. Invertirla è inefficiente.
+1. La sequenza giusta è **accordi di collaborazione standardizzati → bacino candidati pronto → vendita alle aziende**. Invertirla è inefficiente.
 2. **Hub partner privati prima dei pubblici** (master, business school, incubatori prima delle università pubbliche).
 3. **Coesistenza con i recruiter**, non sostituzione. Alleati dell'esterno, complemento dell'interno.
-4. **UVP basato su try-before-you-buy + verticalizzazione + velocità** — non sulle credenziali on-chain (queste sono asset di backbone, non frase di apertura).
+4. **punto di forza basato su prova-prima-di-assumere + verticalizzazione + velocità** — non sulle credenziali on-chain (queste sono asset di sistema (non da elevator pitch), non frase di apertura).
 5. **Junior-first, professional-later**.
 6. **Velocità di chiusura challenge è critica** — più di 4 mesi e l'azienda preferisce il canale tradizionale.
 
@@ -132,7 +132,7 @@ Tono cordiale. Roby chiude con *"Ma figurati, sono idee. Poi valutate voi. Ciao 
 
 Quattro punti che la call ha sollevato ma non ha chiuso, e che restano in attesa di decisione del team.
 
-- Forma giuridica precisa dell'"accordo quadro" da usare con gli hub — MoU, contratto-quadro, o Letter of Intent? Roby non è entrata nel dettaglio legale, va deciso dal team.
+- Forma giuridica precisa dell'"accordo di collaborazione" da usare con gli hub — MoU, contratto-quadro, o Letter of Intent? Roby non è entrata nel dettaglio legale, va deciso dal team.
 - Identità specifica dell'hub "Sole 24 Ore" citato da Roby — Business School, Formazione, o un'altra entità del gruppo? Da chiarire prima di aprire il primo tavolo.
 - Quale recruiter esterno è il primo candidato per una partnership tecnologica futura (Adecco, Manpower, Randstad, headhunter boutique)?
 - Roby diventa advisor ricorrente di MARA? Se sì, va formalizzato il rapporto.

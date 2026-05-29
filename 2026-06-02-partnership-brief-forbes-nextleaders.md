@@ -49,7 +49,7 @@ Forbes Next Leaders è la verticale Forbes per le associazioni studentesche ital
 Status del rapporto MARA-Eric:
 - **Contatto pre-esistente**: già conosciuto prima della call del 2 giugno. Riferimento in call a un evento CX dove MARA aveva usato la piattaforma come gestionale per una challenge.
 - **Stato attuale**: warm — Eric ha già visto l'interfaccia, è convinto, offre attivamente apertura.
-- **Tipo di partner**: canale di accesso (non partner brand classico). Non paga MARA, MARA non paga lui. Win-win: noi guadagniamo accesso alla rete associazioni, Forbes Next Leaders rafforza la propria value proposition verso le sue associazioni offrendo loro un servizio in più (MARA come opportunità per gli studenti).
+- **Tipo di partner**: canale di accesso (non partner brand classico). Non paga MARA, MARA non paga lui. Win-win: noi guadagniamo accesso alla rete associazioni, Forbes Next Leaders rafforza la propria punto di forza verso le sue associazioni offrendo loro un servizio in più (MARA come opportunità per gli studenti).
 
 ## Elaborazione — cosa offre il partner
 
@@ -59,7 +59,7 @@ Distribuite su tutti gli atenei italiani (eccezione telematiche). Eric ha la lis
 
 Quote verbatim Eric: *"Ditemi voi da quale ateneo volete partire e io vi entro, non è un problema."* + *"Voi guardate anche sul sito di Next Leaders e vedete tutta la lista. Mi dite 'guarda, vorrei conoscere questa o quest'altra' e vi faccio una call con loro."*
 
-Raccomandazione esplicita per il primo step: **Human + Campus Venture, le due associazioni di H-FARM**. Sono nel nostro ecosistema esistente, valgono come free wins.
+Raccomandazione esplicita per il primo step: **Human + Campus Venture, le due associazioni di H-FARM**. Sono nel nostro ecosistema esistente, valgono come vittorie facili.
 
 ### Lato 2 — Slot redazionale gratuito su Forbes online
 
@@ -118,6 +118,6 @@ Quattro punti aperti che restano da chiudere prima del consolidamento del rappor
 
 [¹] Call con Eric / Forbes Next Leaders — 2 giugno 2026. Quote in corsivo nel body verbatim dal transcript.
 [²] `mara-context/partners.md` — schema di documentazione partner; aggiornare con la voce Forbes Next Leaders post-stabilizzazione del rapporto.
-[³] `mara-context/relationships.md` — H-FARM come ecosistema fondante; Human + Campus Venture sono associazioni interne all'H-FARM, free wins naturali per la prima fase.
+[³] `mara-context/relationships.md` — H-FARM come ecosistema fondante; Human + Campus Venture sono associazioni interne all'H-FARM, vittorie facili naturali per la prima fase.
 [⁴] Strategy memo `2026-05-29-strategy-memo-roby-gtm-recruiter.md` — framework hub-partner che questo canale estende.
 [⁵] Strategy memo `2026-06-02-strategy-memo-eric-nextleaders-associazioni.md` — argomentazione strategica completa di questo canale.

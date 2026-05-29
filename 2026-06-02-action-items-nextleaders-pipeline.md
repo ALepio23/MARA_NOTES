@@ -52,7 +52,7 @@ Tre tracce parallele: prima short-list e intro (priorità 1), articolo Future of
 
 2. **Email a Eric con la prima richiesta di intro** — entro 7 giugno. Subject line: "MARA — prime 3 associazioni per intro". Body: ringraziamo per la call, eleniamo le 2 H-FARM (Human + Campus Venture) come prime + 1 terza (da scegliere). Tono peer, sharp, no formalismi.
 
-3. **First call con Human (H-FARM)** — entro 14 giugno. Format proposto: 30 min, intro MARA + framework challenge-based hiring + proposta accordo quadro standard. Outcome target: LOI firmata o secondo incontro fissato.
+3. **First call con Human (H-FARM)** — entro 14 giugno. Format proposto: 30 min, intro MARA + framework challenge-based hiring + proposta accordo di collaborazione standard. Outcome target: LOI firmata o secondo incontro fissato.
 
 4. **First call con Campus Venture (H-FARM)** — entro 14 giugno. Stesso format di Human. Le due call vicine permettono comparare il sentiment delle due associazioni in un ecosistema condiviso (H-FARM) e calibrare il pitch.
 
@@ -60,7 +60,7 @@ Tre tracce parallele: prima short-list e intro (priorità 1), articolo Future of
 
 ### Priorità 2 — Articolo Forbes Future of Work (entro 30 giugno 2026)
 
-5. **Draft articolo "Future of Work" per Forbes online** — bozza pronta entro 21 giugno. ~1500 parole. Tesi: "Il CV è insufficiente, aggiungiamo prova osservabile". Struttura: contesto mercato 2025 (saturazione, ATS che livella i CV, cost-per-hire +113% — fonti SHRM/TestGorilla/Deloitte) → tesi MARA → caso TLC come prova → invito alla collaborazione. Voice: MARA team, peer, evidence-led.
+5. **Draft articolo "Future of Work" per Forbes online** — bozza pronta entro 21 giugno. ~1500 parole. Tesi: "Il CV è insufficiente, aggiungiamo prova osservabile". Struttura: contesto mercato 2025 (saturazione, ATS che livella i CV, costo per assunzione +113% — fonti SHRM/TestGorilla/Deloitte) → tesi MARA → caso TLC come prova → invito alla collaborazione. Voice: MARA team, peer, evidence-led.
 
 6. **Materiali per la pubblicazione** — entro 25 giugno. Foto orizzontale di copertina (~1500x800 px, MARA brand-coerente), foto autore con sfondo neutro, bio impersonale 4-5 righe. Tutto consegnato a Eric con l'articolo finale.
 
@@ -70,7 +70,7 @@ Tre tracce parallele: prima short-list e intro (priorità 1), articolo Future of
 
 ### Priorità 3 — Allineamento strategico (entro 14 giugno 2026)
 
-8. **Aggiornare il strategy memo Roby e il memo Campania play** — entro 14 giugno. Inserire le associazioni Next Leaders come nuova categoria di hub-partner separata, con priorità sopra master privati per velocità. Aggiornare il target "5 accordi quadro entro 31 luglio" specificando: di cui ≥2 associazioni Next Leaders.
+8. **Aggiornare il strategy memo Roby e il memo Campania play** — entro 14 giugno. Inserire le associazioni Next Leaders come nuova categoria di hub-partner separata, con priorità sopra master privati per velocità. Aggiornare il target "5 accordi di collaborazione entro 31 luglio" specificando: di cui ≥2 associazioni Next Leaders.
 
 ---
 
@@ -83,7 +83,7 @@ Sei punti che bloccano l'avvio o creano ambiguità nelle azioni. Vanno chiusi al
 - Quali 3-5 associazioni Next Leaders andranno nella prima short-list oltre Human + Campus Venture? Da decidere collettivamente con la lista Eric davanti.
 - Eric va formalizzato come advisor? Equity, consulenza retribuita, relazione informale? La call non ha definito un perimetro.
 - Career Day H-FARM con MARA come challenge-host: a che punto è il discorso, e va incrociato con questi intro (Human è dentro H-FARM)?
-- Il pitch in call è andato bene con Eric. Va consolidato come versione canonica della UVP MARA e portato nel pitch deck. Chi tiene aggiornato il pitch deck?
+- Il pitch in call è andato bene con Eric. Va consolidato come versione canonica del punto di forza MARA e portato nel pitch deck. Chi tiene aggiornato il pitch deck?
 
 ## Fonti
 

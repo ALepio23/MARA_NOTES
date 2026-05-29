@@ -56,7 +56,7 @@ Tre cose che cambiano per noi se prendiamo seriamente quello che Eric ha messo i
 
 **Le università come istituzioni escono dal Year-1.** Il framework Roby (29 mag) le aveva già messe in "priorità 2 — pipeline a medio termine". Eric ci fa fare un passo in più: per la fase di lancio, salta direttamente sulle associazioni studentesche, che vivono dentro le università ma non passano per il rettore. *Citation Eric: "a Cattolica chi fa da garante è la Cattolica, non dovete pensare che non lo faccia. A voi basta uno studente che si iscrive, non vi interessa che ci sia scritto il logo della Cattolica."* Il logo non serve. La popolazione studenti sì.
 
-**Le associazioni sono hub-partner nel senso esatto di Roby.** Funzionano come intermediari verso una popolazione di candidati pronti. La differenza rispetto a Sole 24 Ore Business School o Bocconi Master Executive: l'accordo si chiude in giorni invece che settimane perché l'associazione decide da sola (no rettorato), e Eric fa l'intro come terzo neutrale (no warm-cold problem). Praticamente il canale più veloce che abbiamo finora.
+**Le associazioni sono hub-partner nel senso esatto di Roby.** Funzionano come intermediari verso una popolazione di candidati pronti. La differenza rispetto a Sole 24 Ore Business School o Bocconi Master Executive: l'accordo si chiude in giorni invece che settimane perché l'associazione decide da sola (no rettorato), e Eric fa l'intro come terzo neutrale (no problema del contatto freddo). Praticamente il canale più veloce che abbiamo finora.
 
 **Forbes Future of Work è un canale di contenuti gratuito che vale la pena attivare subito.** Articolo nostro pubblicato su Forbes online (non cartaceo) sul tema challenge-based hiring + foto autore. Costo: tempo di scrittura. Beneficio: SEO + credibilità + materiale spendibile in tutte le call commerciali successive. Sproporzione assoluta.
 
@@ -66,21 +66,21 @@ Quattro angolazioni che valgono la pena tenere in mente.
 
 **Sequenza di apertura associazioni.** Eric raccomanda Human + Campus Venture (H-FARM) come primo step. Pragmatico — sono nel nostro ecosistema, validation veloce, signal positivo per la rete. Dopo il primo successo lì, andiamo veneto (UniPD, Ca' Foscari, ecc.) attraverso le loro associazioni. Poi Lombardia/Piemonte/Lazio. Eric ci da la lista completa — la sfogliamo, segniamo quelle in fit (master, business school, ingegneria, design — settori dove le challenge tirano), e gliele passiamo per intro.
 
-**Forbes Future of Work — argomento dell'articolo.** Il tema naturale è il framework Roby + i dati di mercato che abbiamo già raccolto (HireVue $7M savings, Toptal 98% trial-to-hire, SHRM cost-per-hire +113%). Articolo target ~1500 parole, tesi: "Il CV è insufficiente, aggiungiamo prova osservabile". Stesso framing che dobbiamo usare nelle nuove pitch a partner. Vale come **rinforzo del posizionamento** + ci da un link Forbes da mostrare nelle prime intro.
+**Forbes Future of Work — argomento dell'articolo.** Il tema naturale è il framework Roby + i dati di mercato che abbiamo già raccolto (HireVue $7M savings, Toptal 98% trial-to-hire, SHRM costo per assunzione +113%). Articolo target ~1500 parole, tesi: "Il CV è insufficiente, aggiungiamo prova osservabile". Stesso framing che dobbiamo usare nelle nuove pitch a partner. Vale come **rinforzo del posizionamento** + ci da un link Forbes da mostrare nelle prime intro.
 
 **Rapporto Eric → CRM.** Eric va trattato come **advisor di rete** — non advisor strategico (quello è Roby), ma advisor di accesso. Vale la pena formalizzare: gli mandiamo aggiornamenti regolari (mensile?) su cosa abbiamo chiuso grazie ai suoi intro, lui ci da feedback, mantiene il flusso aperto. Da inserire in `mara-context/partners.md` (o nuovo file `advisors.md`).
 
-**Effetto compounding con il pitch articolato in call.** Durante la call Alessandro e il socio MARA hanno articolato la value proposition molto bene: 30 vs 300 colloqui, time-to-hire 2.5 mesi, job hopping ai massimi, ranking list dei 5 standout consegnata al recruiter. Eric ha confermato che convince. Quel pitch va consolidato come **versione corrente** della UVP MARA e usato in tutte le call associazioni + nel pitch deck aggiornato per il framework Roby.
+**Effetto compounding con il pitch articolato in call.** Durante la call Alessandro e il socio MARA hanno articolato il punto di forza molto bene: 30 vs 300 colloqui, tempo per assumere 2.5 mesi, cambio frequente di lavoro ai massimi, classifica dei candidati migliori dei 5 standout consegnata al recruiter. Eric ha confermato che convince. Quel pitch va consolidato come **versione corrente** del punto di forza MARA e usato in tutte le call associazioni + nel pitch deck aggiornato per il framework Roby.
 
 ## Soluzioni possibili
 
 Cinque mosse concrete, da decidere insieme al prossimo cofounder meeting.
 
-**1. Aggiornare il piano accordi-quadro del strategy memo Roby.** Aggiungere le associazioni studentesche come categoria di hub partner separata: priorità ancora più alta dei master privati per velocità, ma volume per-associazione minore. Target rivisto: 5 accordi quadro entro 31 luglio, di cui **almeno 2 sono associazioni Next Leaders** (Human + Campus Venture per certo, una terza da scegliere).
+**1. Aggiornare il piano accordi-quadro del strategy memo Roby.** Aggiungere le associazioni studentesche come categoria di hub partner separata: priorità ancora più alta dei master privati per velocità, ma volume per-associazione minore. Target rivisto: 5 accordi di collaborazione entro 31 luglio, di cui **almeno 2 sono associazioni Next Leaders** (Human + Campus Venture per certo, una terza da scegliere).
 
 **2. Sfogliare la lista Next Leaders entro 7 giugno.** Identificare le top 5-7 associazioni in fit con MARA (per università ricca di studenti tech/business/design + per dimensione del bacino). Mandare a Eric la prima short-list per le intro.
 
-**3. Aprire i due intro H-FARM (Human + Campus Venture) entro 14 giugno.** Sono i due "free wins" per definizione. Dopo questi, abbiamo il primo signal di come funziona il modello e cosa migliorare nel pitch verso associazioni.
+**3. Aprire i due intro H-FARM (Human + Campus Venture) entro 14 giugno.** Sono i due "vittorie facili" per definizione. Dopo questi, abbiamo il primo signal di come funziona il modello e cosa migliorare nel pitch verso associazioni.
 
 **4. Scrivere e pubblicare l'articolo Future of Work entro 30 giugno.** Argomento: framework challenge-based hiring + dati di mercato. Materiali da preparare: articolo (~1500 parole), foto orizzontale di copertina, foto autore con sfondo neutro, bio impersonale di 4-5 righe. Output del lavoro lo riusiamo sul nostro sito + nei pitch deck.
 

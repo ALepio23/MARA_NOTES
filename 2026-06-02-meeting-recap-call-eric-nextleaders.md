@@ -43,7 +43,7 @@ Tono cordiale, peer, niente cerimonia. Nessuna decisione formale nella call — 
 
 - **Eric** — project manager Forbes Next Leaders. Scrive per Forbes e Forbes Nautica + ha varie attività adiacenti (startup automazione/marketing, organizzazione eventi, GDO, fondazioni).
 - **Alessandro Pio Alvigi** — co-founder MARA, interlocutore principale.
-- **Co-founder MARA** (Tuo Socio nella call — identità non esplicitata nel transcript) — interviene in più punti, soprattutto su articolazione UVP, framework di consulenza preliminare, e per chiusura su associazioni.
+- **Co-founder MARA** (Tuo Socio nella call — identità non esplicitata nel transcript) — interviene in più punti, soprattutto su articolazione punto di forza, framework di consulenza preliminare, e per chiusura su associazioni.
 
 ## Contesto
 
@@ -55,15 +55,15 @@ Data: 2 giugno 2026. Durata effettiva non desumibile dal transcript (sono uno st
 
 ### 1. Pitch MARA aggiornato
 
-Alessandro + co-founder articolano la value proposition con argomenti freschi rispetto al deck precedente:
+Alessandro + co-founder articolano il punto di forza con argomenti freschi rispetto al deck precedente:
 
 - **Volume problem**: con gli ATS che livellano i CV, prima un HR faceva 30 colloqui (gli standout su 300 CV), oggi ne deve fare 300 perché "non è possibile sapere chi sa effettivamente fare quelle cose, sono tutti perfetti i curriculum"
 - **Costo + tempo**: 300 chiamate × tempo HR interno = 2.5 mesi per chiudere un'assunzione
 - **Job hopping ai massimi**: gli studenti scoprono dopo 3 mesi che l'azienda non era allineata, escono
-- **MARA come fix**: consulenza preliminare → erogazione brief agli studenti → ranking list dei migliori candidati al recruiter
-- **Coesistenza con il recruiter**: "Non vogliamo rubare il lavoro ai recruiter, daremmo l'output della challenge ai recruiter"
+- **MARA come fix**: consulenza preliminare → erogazione brief agli studenti → classifica dei candidati migliori dei migliori candidati al recruiter
+- **Coesistenza con il recruiter**: "Non vogliamo rubare il lavoro ai recruiter, daremmo il lavoro consegnato nella challenge ai recruiter"
 - **La challenge come strumento di discovery doppio**: l'azienda valuta lo studente, lo studente capisce se l'azienda interessa
-- **Fit chiaro**: "trovare il candidato migliore nel minor tempo possibile con prove reali e con un fit chiaro con quella posizione"
+- **Fit chiaro**: "trovare il candidato migliore nel minor tempo possibile con prove reali e con un compatibilità chiara con quella posizione"
 
 ### 2. Eric — chi è e cosa fa
 
@@ -99,9 +99,9 @@ MARA chiede come stanno messi a livello internazionale. Eric: rapporti buoni con
 
 1. **Salto delle università come istituzioni nel Year-1.** Le associazioni studentesche sostituiscono il piano "convincere il rettore" per il go-to-market di lancio.
 2. **Eric come canale di intro.** È un terzo neutrale che fa partire la conversazione — eliminamo il problema warm-cold per le prime call.
-3. **H-FARM come primo step naturale.** Human + Campus Venture sono dentro il nostro ecosistema → free wins, signal positivo per la rete Next Leaders.
+3. **H-FARM come primo step naturale.** Human + Campus Venture sono dentro il nostro ecosistema → vittorie facili, signal positivo per la rete Next Leaders.
 4. **Forbes Future of Work come canale di posizionamento.** Articolo nostro su Forbes online = SEO + credibilità + link Forbes da mostrare nelle prime intro.
-5. **Pitch UVP consolidato.** Il modo in cui Alessandro + socio hanno articolato MARA in call è la versione corrente del pitch — va portata nel deck.
+5. **Pitch punto di forza consolidato.** Il modo in cui Alessandro + socio hanno articolato MARA in call è la versione corrente del pitch — va portata nel deck.
 
 ## Note operative
 

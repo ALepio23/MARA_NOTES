@@ -4,8 +4,8 @@ type: strategy-memo
 title: "Strategy memo — Ingresso MARA in Campania (Megaride + ecosistema)"
 date: 2026-05-26
 language: it
-summary: "Cinque suggerimenti convergono su un'unica mossa: Megaride come partner ancora in Campania, hiring KPI come wedge narrativo, Startcap + NewSteel come canali ecosystem, patrocinio come copertura. Sequenza 60 giorni proposta."
-headline: "Megaride come anchor in Campania + Federico II come orbita + 5 thread convergenti. Sequenza 60 giorni dal 26 mag"
+summary: "Cinque suggerimenti convergono su un'unica mossa: Megaride come primo cliente di riferimento in Campania, hiring KPI come leva narrativa, Startcap + NewSteel come canali ecosystem, patrocinio come copertura. Sequenza 60 giorni proposta."
+headline: "Megaride come primo cliente di riferimento in Campania + Federico II come orbita + 5 thread convergenti. Sequenza 60 giorni dal 26 mag"
 source_notes:
   - "Appunti sessione strategica 2026-05-26 (chat paste — interlocutore da specificare)"
 people:
@@ -32,7 +32,7 @@ updated_at: 2026-05-26T23:15:00Z
 *Documento di aggiornamento team — sintesi dei suggerimenti raccolti in sessione strategica del 2026-05-26 con argomentazione strategica per ognuno.*
 
 <!-- NARRATIVE_SUMMARY -->
-L'ingresso di MARA in Campania nasce non come iniziativa parallela ma come **mossa convergente** su cinque thread strategici emersi nella sessione del 26 maggio 2026. **Megaride** — azienda ingegneristica napoletana con DNA Federico II — è il partner ancora: il primo deal che valida che il framework MARA funziona fuori dall'orbita H-FARM. Lo **hiring KPI** (cost-per-hire + time-to-hire) è il wedge narrativo che rende il pitch corporate immediatamente leggibile: numeri, non slogan.
+L'ingresso di MARA in Campania nasce non come iniziativa parallela ma come **mossa convergente** su cinque thread strategici emersi nella sessione del 26 maggio 2026. **Megaride** — azienda ingegneristica napoletana con DNA Federico II — è il primo cliente di riferimento: il primo deal che valida che il framework MARA funziona fuori dall'orbita H-FARM. Lo **hiring KPI** (costo per assunzione + tempo per assumere) è la leva narrativa che rende il pitch corporate immediatamente leggibile: numeri, non slogan.
 
 L'ecosistema regionale fornisce i canali di accesso. **Campania NewSteel** — incubatore Federico II — funziona da canale referral verso aziende incubate e accesso ai partecipanti dei suoi programmi. **Startcap Campania** funziona da canale istituzionale regionale: apply, partnership o speaker da decidere. Il **patrocinio istituzionale** (Regione Campania o Federico II via NewSteel) è la copertura che rende la mossa visibile senza essere percepita come sales push estraneo al territorio.
 
@@ -43,7 +43,7 @@ Il memo connette Megaride come **primo case study Campania entro Q3 2026** se il
 
 ## Tesi
 
-MARA dovrebbe attivare nei prossimi 60 giorni un ingresso strutturato in Campania, con **Megaride come partner ancora**, **hiring problem + KPI cost/time-to-hire come wedge narrativo**, e **Startcap Campania + Campania NewSteel come canali ecosystem**, il tutto coperto da un **patrocinio istituzionale** ancora da definire. I cinque thread emersi nella sessione convergono su un'unica mossa di mercato regionale: non sono cinque iniziative separate, sono una sola play che usa più leve. [¹]
+MARA dovrebbe attivare nei prossimi 60 giorni un ingresso strutturato in Campania, con **Megaride come primo cliente di riferimento**, **hiring problem + KPI cost/tempo per assumere come leva narrativa**, e **Startcap Campania + Campania NewSteel come canali ecosystem**, il tutto coperto da un **patrocinio istituzionale** ancora da definire. I cinque thread emersi nella sessione convergono su un'unica mossa di mercato regionale: non sono cinque iniziative separate, sono una sola play che usa più leve. [¹]
 
 ## Contesto
 
@@ -62,7 +62,7 @@ Per ogni suggerimento ricevuto, il razionale strategico per MARA.
 **1. Ci hanno suggerito di validare il processo.**
 
 - Argomento: il modello challenge MARA ha 200+ studenti ma non ha ancora un benchmark **partner-side** pubblicabile (quanto un'azienda risparmia/guadagna usando MARA come funnel hiring). Una validazione strutturata produce l'asset commerciale che oggi ci manca per chiudere il prossimo partner senza tornare a "fidatevi del modello".
-- Argomento: il test deve essere fatto su un partner pilota dove misuriamo cost-per-hire e time-to-hire **prima e dopo** la challenge. Megaride è il candidato naturale per dimensione, geografia e affinità Federico II.
+- Argomento: il test deve essere fatto su un partner pilota dove misuriamo costo per assunzione e tempo per assumere **prima e dopo** la challenge. Megaride è il candidato naturale per dimensione, geografia e affinità Federico II.
 - Argomento operativo: "validare" qui non significa demo o pitch — significa setup misurabile con baseline pre-challenge, run, e post-challenge outcome. Format leggermente diverso dal flow standard ma riusabile per ogni partner successivo.
 
 **2. Ci hanno suggerito di ottenere un patrocinio.**
@@ -76,14 +76,14 @@ Per ogni suggerimento ricevuto, il razionale strategico per MARA.
 - Argomento: Megaride è ingegneristica napoletana con DNA Federico II — stesso ecosistema accademico già attivo in MARA. Costo di onboarding partner ridotto, conversazione iniziale che parte da un terreno comune.
 - Argomento: settore engineering = pain reale su hiring di talento tecnico junior + difficoltà di screening pre-hire. Pain perfetto per il format MARA.
 - Argomento: se Megaride diventa case study, sblocca la conversazione con altre engineering firm Campania-adiacenti (Centro Sviluppo Materiali, GreenIT, Capgemini Engineering Napoli) usando lo stesso pitch.
-- **Da chiarire**: lo stato attuale del contatto Megaride e il canale di entrata (warm intro Federico II? Cold outreach? Suggerimento dell'interlocutore della sessione?).
+- **Da chiarire**: lo stato attuale del contatto Megaride e il canale di entrata (presentazione da un contatto fidato Federico II? Cold outreach? Suggerimento dell'interlocutore della sessione?).
 
 **4. Ci hanno suggerito di costruire il pitch su "company gain" + hiring problem + dati + test.**
 
 Quattro bullet delle note convergono qui: *Highlight the company gain*, *Talk about hiring → hiring problem and data*, *Do a test for the hiring*, *KPI su costi e tempi di assunzione da validare*. Sono una raccomandazione unica vista da quattro angoli.
 
-- Argomento: il pitch MARA oggi è prevalentemente studenti-first ("200+ studenti formati, SBT, esperienza reale"). Il pitch che chiude è invece company-first ("ridurre time-to-hire da X a Y, abbassare cost-per-hire da W a Z, qualità candidati validata pre-hire"). I quattro bullet ci spingono esattamente in questa direzione.
-- Argomento: i numeri benchmark esistono in letteratura ([CLAIM:c1] cost-per-hire medio Italia stimato €4–6K — **da validare con Randstad / AIDP**; [CLAIM:c2] time-to-hire medio profili tech 40+ giorni — **da validare con SHRM / Eurostat / Glassdoor**) ma MARA non ha estrazione propria. Il test su Megaride (o partner pilota) produce il primo dato MARA-first — che diventa l'unico vero asset di pitch per i partner successivi.
+- Argomento: il pitch MARA oggi è prevalentemente studenti-first ("200+ studenti formati, SBT, esperienza reale"). Il pitch che chiude è invece company-first ("ridurre tempo per assumere da X a Y, abbassare costo per assunzione da W a Z, qualità candidati validata pre-hire"). I quattro bullet ci spingono esattamente in questa direzione.
+- Argomento: i numeri benchmark esistono in letteratura ([CLAIM:c1] costo per assunzione medio Italia stimato €4–6K — **da validare con Randstad / AIDP**; [CLAIM:c2] tempo per assumere medio profili tech 40+ giorni — **da validare con SHRM / Eurostat / Glassdoor**) ma MARA non ha estrazione propria. Il test su Megaride (o partner pilota) produce il primo dato MARA-first — che diventa l'unico vero asset di pitch per i partner successivi.
 - Argomento: "Do a test for the hiring" non è "una challenge in più", è una challenge progettata come misurazione (baseline → run → outcome → delta).
 - **Tattica narrativa "giocare sul tempo"** (dal batch 2 della stessa sessione): la sequenza pitch concreta da usare in conversazione è *tempistiche di hiring → "ti trovo il candidato" → perdita di tempo del senior a screenare CV → costo opportunity del tempo senior*. La leva non è "MARA fa hiring meglio", è "MARA libera il tempo del senior che oggi paghi per fare screening". Il dolore è dimensionato dal tempo, non dal numero di hire. Inversione MARA: lo screening avviene in challenge, il senior vede solo candidati già pre-validati dal lavoro reale. *Nota a margine: Statispay è metodologia affine emersa nella stessa sessione — comparable, non perno del pitch.*
 - **Rischio specifico**: se costruiamo il pitch solo su benchmark italiani generici senza dato MARA, ogni partner serio chiederà "i numeri MARA quali sono?" — e il pitch crolla. Il test pilota è precondizione del pitch scalabile, non un add-on.
@@ -128,11 +128,11 @@ Quattro bullet delle note convergono qui: *Highlight the company gain*, *Talk ab
 
 ## Next step
 
-- **Alessandro**: identificare contatto Megaride (LinkedIn + eventuale warm intro Federico II) — entro 2026-06-02.
+- **Alessandro**: identificare contatto Megaride (LinkedIn + eventuale presentazione da un contatto fidato Federico II) — entro 2026-06-02.
 - **Alessandro**: chiarire chi ha dato i suggerimenti durante la sessione e con quale contesto — entro 2026-05-29 (precede tutto il resto).
 - **Team (call rapida, 30 min)**: decidere ente target patrocinio e brief redazionale della richiesta — entro 2026-06-05.
 - **Della Rocca / Zhubi**: scoping del "test hiring" come format challenge: quali KPI misurare, baseline pre-challenge, struttura misurazione — entro 2026-06-10.
-- **Alessandro + Gualano**: ricerca benchmark hiring KPI (cost-per-hire Italia 2025, time-to-hire engineering Italia 2025) per pitch deck Megaride — entro 2026-06-08. Fonti suggerite: Randstad Workmonitor 2025, AIDP, SHRM, Eurostat.
+- **Alessandro + Gualano**: ricerca benchmark hiring KPI (costo per assunzione Italia 2025, tempo per assumere engineering Italia 2025) per pitch deck Megaride — entro 2026-06-08. Fonti suggerite: Randstad Workmonitor 2025, AIDP, SHRM, Eurostat.
 - **Team**: decidere tipo di engagement Startcap Campania (apply/partner/speaker) e Campania NewSteel (referral/showcase) — entro 2026-06-15.
 
 ## Fonti
