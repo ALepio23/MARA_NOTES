@@ -5,6 +5,7 @@ title: "Strategy memo — GTM MARA: bacino d'utenza prima delle challenge, hub p
 date: "2026-05-29"
 language: it
 summary: "MARA deve stringere accordi quadro con hub di candidati (master privati, incubatori, business school) PRIMA di vendere challenge alle aziende, posizionarsi come outsourcing dell'HR interno (non sostituto del recruiter esterno), partire con junior. Framework emerso dalla call con Roby, allineato e operativizzabile dentro il Campania play."
+headline: "4 mosse per il cofounder meeting w23: accordi quadro prima delle challenge, posizionamento come alleato del recruiter (non sostituto)"
 people:
   - "Roby [cognome da confermare]"
   - "Alessandro Pio Alvigi"

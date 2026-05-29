@@ -5,6 +5,7 @@ title: "Dev brief — MARA platform: judges app, clustering, UX, live updates, A
 date: 2026-05-26
 language: it
 summary: "Sei candidati feature emersi dalla sessione strategica del 26 maggio 2026 (1-5 funzionali, 6 nice-to-have visivo), più ZK proofs flaggati come candidato architettura roadmap. Ogni voce con cosa è / perché / domande aperte / scope rough. Cinque decisioni del team prima dello sprint successivo."
+headline: "6 feature platform + ZK proofs roadmap candidate. 5 decisioni di prodotto/architettura da prendere prima dello sprint"
 people:
   - "Alessandro Della Rocca"
   - "Alessandro Pio Alvigi"

@@ -158,6 +158,7 @@ def load_doc(md_path):
         "date": fm.get("date", ""),
         "language": fm.get("language", "it"),
         "summary": fm.get("summary", ""),
+        "headline": fm.get("headline", ""),
         "people": fm.get("people", []),
         "companies": fm.get("companies", []),
         "mara_projects": fm.get("mara_projects", []),

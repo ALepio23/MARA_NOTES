@@ -5,6 +5,7 @@ title: "Strategy memo — Ingresso MARA in Campania (Megaride + ecosistema)"
 date: 2026-05-26
 language: it
 summary: "Cinque suggerimenti convergono su un'unica mossa: Megaride come partner ancora in Campania, hiring KPI come wedge narrativo, Startcap + NewSteel come canali ecosystem, patrocinio come copertura. Sequenza 60 giorni proposta."
+headline: "Megaride come anchor in Campania + Federico II come orbita + 5 thread convergenti. Sequenza 60 giorni dal 26 mag"
 source_notes:
   - "Appunti sessione strategica 2026-05-26 (chat paste — interlocutore da specificare)"
 people:

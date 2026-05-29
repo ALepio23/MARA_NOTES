@@ -5,6 +5,7 @@ title: "Meeting recap — Call con Roby (advisor) su strategia GTM MARA"
 date: "2026-05-29"
 language: it
 summary: "Call di consulenza strategica con Roby (advisor) e Alessandro su sequenza go-to-market MARA. Argomenti coperti: accordi quadro hub partner prima delle challenge, taxonomia hub (master/incubatori/CdC/università), posizionamento vs recruiter, UVP try-before-you-buy, scalabilità junior-prima-professional. Rita Zhubi e Michele Gualano presenti ai saluti finali. Nessuna decisione formale presa — output sono raccomandazioni strategiche che alimentano il strategy memo e gli action items dello stesso giorno."
+headline: "Archivio call advisory con Roby (29 mag). Format conversazionale, framework GTM emergente, 4 domande aperte"
 people:
   - "Roby [advisor — cognome TBD]"
   - "Alessandro Pio Alvigi"

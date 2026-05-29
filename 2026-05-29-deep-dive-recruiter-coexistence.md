@@ -5,6 +5,7 @@ title: "Deep-dive — Coesistenza con il recruiter: MARA come outsourcing dell'H
 date: "2026-05-29"
 language: it
 summary: "Esplorazione del framework di posizionamento emerso dalla call con Roby: perché MARA deve evitare il pitch 'alternativa al recruiter esterno' e costruire invece un'identità duale di 'outsourcing dell'HR interno + alleato dell'headhunter futuro'. 11 citazioni esterne integrate con il modello MARA esistente: try-before-you-buy, chicken-and-egg, dinamica costi recruiter, trend skills-based hiring 2025-2026."
+headline: "Identità duale MARA: outsourcing dell'HR interno + alleato del recruiter esterno. 11 fonti integrate, 3 obiezioni difese"
 people:
   - "Roby [advisor — cognome TBD]"
   - "Alessandro Pio Alvigi"

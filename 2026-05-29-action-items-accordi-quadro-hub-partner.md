@@ -5,6 +5,7 @@ title: "Action items — Accordi quadro hub partner (lista priorità Year-1)"
 date: "2026-05-29"
 language: it
 summary: "10 action items operativi derivati dalla call con Roby: chiudere 5 accordi quadro con hub di candidati entro 31 luglio 2026, riformulare voice e Campania play, primo template legale entro 7 giugno. Owner-tagged per ciascuno dei 4 co-founder."
+headline: "5 accordi quadro entro 31 lug + 5 infrastrutture abilitanti + 6 domande aperte da chiudere alla w23"
 people:
   - "Alessandro Pio Alvigi"
   - "Michele Gualano"
