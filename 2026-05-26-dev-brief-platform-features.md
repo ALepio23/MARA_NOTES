@@ -27,8 +27,6 @@ updated_at: 2026-05-26T23:15:00Z
 
 # Dev brief — MARA platform features + ZK roadmap candidate
 
-**For**: Ale Della Rocca (IT Specialist)
-**From**: Alessandro Alvigi
 **Lang**: EN (default for dev briefs)
 
 <!-- NARRATIVE_SUMMARY -->
@@ -164,19 +162,21 @@ Five feature candidates surfaced in the 2026-05-26 strategy session. Each is con
 
 ---
 
-## Decisions needed from you
+## Domande a cui dobbiamo rispondere
 
-1. Priority ranking of features 1–5 (which ships first this sprint?).
-2. AI assistant target: which presentations? (biggest scope variance — answer first).
-3. ZK proofs: keep on roadmap for Q3 2026 eval, or push further?
-4. Capacity check vs Lux Collective load — does anything here fit before Lux closes (April 2026)?
-5. Clustering axis: do you want to decide it now (single source of truth) or prototype with one axis and iterate?
+Five product/architecture decisions that the team needs to take before the next sprint planning. They are blockers, not preferences — each unanswered question delays a feature.
+
+- **Priority ranking of features 1–5** — which feature ships first this sprint? Without ranking, capacity gets fragmented across five fronts.
+- **AI assistant target audience** — which presentations does the assistant analyze? Student final submissions, MARA pitch decks, partner pitch reviews? This is the biggest scope variance in the whole brief; same description means 3 days of work for one answer and 6+ weeks for another. Answer this first.
+- **ZK proofs roadmap slot** — keep on Q3 2026 evaluation timeline, or push further out? The decision impacts how much research bandwidth gets allocated this quarter.
+- **Capacity vs Lux Collective load** — does anything in features 1–5 fit before the Lux challenge closes (21 April 2026)? Lux is the priority commitment; new dev work must respect that envelope.
+- **Clustering axis choice** — decide the taxonomy now as a single source of truth, or prototype with one axis and iterate? Both have valid trade-offs — committing now lowers rework risk, prototyping lowers commitment risk.
 
 ---
 
-## Parked elsewhere (FYI, not for you to resolve)
+## Parked elsewhere
 
-- **Penetration testing / ethical hacking** — surfaced in same session but with zero scope. Parked in `~/Desktop/MARA.notes/note-generiche.md` until clarified. If this turns out to be a security audit ask for the platform, I'll surface it back as a separate item.
+- **Penetration testing / ethical hacking** — surfaced in the same strategy session with zero scope attached. Parked in `~/Desktop/MARA.notes/note-generiche.md` until clarified. If this turns out to be a security audit request for the platform, will be surfaced back as a separate item.
 
 ## Fonti
 

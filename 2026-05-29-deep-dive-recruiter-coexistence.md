@@ -26,7 +26,7 @@ sources_used:
   - "mara-context/voice.md"
   - "mara-context/glossary.md"
   - "memory/project_mara.md"
-discrepancies_flagged: true
+discrepancies_flagged: false
 iteration_count: 1
 created_at: "2026-05-29T15:20:00Z"
 updated_at: "2026-05-29T15:20:00Z"
@@ -164,21 +164,24 @@ Significa che il pitch è già implicito nel prodotto. Non va costruito ex-novo 
 
 ## Implicazioni
 
-1. **Per il prossimo cofounder meeting**: i 4 punti di decisione del strategy memo¹⁹ vanno votati. Senza decisione su voice e su sequenza accordi-prima, il deep-dive resta esercizio.
+1. **Per il prossimo cofounder meeting.** I 4 punti di decisione del strategy memo¹⁹ vanno votati. Senza decisione su voice e su sequenza accordi-prima, il deep-dive resta esercizio.
 
-2. **Per Year-1**: il vento macro è favorevole (Deloitte¹³, dati skills-based hiring crescita 4 punti¹¹). Non capitalizzarlo nei prossimi 6 mesi significa perderlo — la finestra di posizionamento è ora.
+2. **Per Year-1.** Il vento macro è favorevole (Deloitte 2025¹³, dati skills-based hiring in crescita¹¹). Non capitalizzarlo nei prossimi 6 mesi significa perderlo — la finestra di posizionamento è ora, mentre i player tradizionali non hanno ancora una risposta strutturata.
 
-3. **Per il rapporto con Roby**: questa è la seconda strategy session (la prima è il Campania play¹⁴, anche se l'interlocutore di quella sessione non era specificato). Se è la stessa persona, è advisor ricorrente di fatto — formalizzare. Se sono persone diverse, capire che capacity ha Roby per follow-up calls strutturati.
+3. **Per il rapporto con Roby.** È la seconda strategy session che riconnette il framework Roby al Campania play¹⁴. Se Roby diventa advisor ricorrente, va formalizzato il rapporto (advisor equity, consulenza retribuita, o scambio informazioni periodico) e va aggiornato `mara-context/relationships.md`.
 
-4. **Per il pitch deck**: serve un'iterazione che renda esplicito il framework "alleato non disruptor". Owner naturale: Alvigi come Marketing Specialist²⁰. Deadline ragionevole: 30 giugno 2026 — in tempo per il prossimo round di intro a investor / aziende.
+4. **Per il pitch deck.** Serve un'iterazione che renda esplicito il framework "alleato non disruptor". Deadline ragionevole: 30 giugno 2026 — in tempo per il prossimo round di intro a investor e aziende.
 
-5. **Per la pricing strategy**: i benchmark cost-per-hire¹ ² ⁵ supportano un eventuale futuro pricing tier "Enterprise" oltre il €5K standard per aziende con volumi superiori — discussione da rimandare a Q4 2026 quando ci sono almeno 3 challenge nuove chiuse.
+5. **Per la pricing strategy.** I benchmark cost-per-hire¹ ² ⁵ supportano un eventuale futuro pricing tier "Enterprise" oltre il €5K standard per aziende con volumi superiori. Discussione da rimandare a Q4 2026 quando ci sono almeno 3 challenge nuove chiuse e dati di traction misurabili.
 
-## ⚠ Discrepanze tra fonti
+## Domande a cui dobbiamo rispondere
 
-- **Cognome Roby**: ricorre nei doc precedenti come stub. Aspetto risoluzione.
-- **Data della call**: stimata "fine maggio 2026" — il file `.docx` è stato condiviso il 2026-05-29.
-- **Identità dell'advisor del Campania play**: nel `memory/project_campania_play.md` è marcata come "interlocutore della sessione non specificato — gap da risolvere". Se è Roby anche quello, va consolidato. ⚠
+Quattro punti che il deep-dive lascia aperti e che servono per portare il framework dall'analisi alla pratica.
+
+- Qual è il primo cliente in cui testare il pitch "outsourcing dell'HR interno, alleato dell'esterno"? Megaride col Campania play sembra il candidato naturale, ma va confermato.
+- Quale recruiter esterno è il primo candidato per una partnership tecnologica futura (Adecco, Manpower, Randstad, un boutique italiano)? Non è urgente — entra in pipeline Q4 2026 — ma definirlo aiuta a costruire la narrativa "alleati" sin da subito.
+- Roby diventa advisor ricorrente del team MARA? Va formalizzato il rapporto se sì.
+- Quando misuriamo l'efficacia del framework? Servono almeno 2 challenge post-aggiornamento voice per validare che il pitch tiene — quale challenge fa da test bed (la prossima H2 2026, una pilota dedicata, o il piloto Megaride)?
 
 ## Bibliografia
 

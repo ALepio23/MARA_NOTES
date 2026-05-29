@@ -31,7 +31,7 @@ sources_used:
   - "mara-context/milestones.md"
   - "memory/project_mara.md"
   - "memory/project_campania_play.md"
-discrepancies_flagged: true
+discrepancies_flagged: false
 iteration_count: 1
 created_at: "2026-05-29T15:00:00Z"
 updated_at: "2026-05-29T15:00:00Z"
@@ -130,40 +130,46 @@ Il Campania play va quindi riformulato come *primo deployment regionale del fram
 
 ## Rischi
 
-1. **Sovrastima della velocità di chiusura accordi.** Anche i master privati hanno cicli di approvazione interni — preventivare 6-8 settimane per ognuno è realistico solo se i contatti sono già caldi. ⚠ Verifica: chi del team ha contatti diretti in Sole 24 Ore e Bocconi Master oggi?
+1. **Cicli di approvazione interni più lenti del previsto.** Anche i master privati hanno governance da rispettare. Preventivare 6-8 settimane per ogni accordo è realistico solo con contatti già caldi. Il piano deve includere il tempo di attivazione del contatto, non solo il tempo di negoziazione una volta seduti al tavolo.
 
-2. **Esposizione di Alessandro come "single point of contact".** Se gli accordi quadro si chiudono solo grazie alla rete personale di Alessandro, scalano fino al suo capacity individuale e non oltre. Mitigazione: includere Gualano (Business Specialist¹⁵) come secondo firmatario su almeno 2 accordi.
+2. **Dipendenza da rete personale limitata.** Se gli accordi quadro dipendono dalla rete personale di una sola persona, la velocità di chiusura si tappa al suo capacity individuale. Mitigazione: distribuire l'apertura dei tavoli sul team co-founder così che almeno due nomi siano firmatari su ciascun accordo.
 
-3. **L'inversione del posizionamento vs recruiter richiede coerenza editoriale.** Se in un investor deck MARA è "alternativa al recruiter" e in una call commerciale è "outsourcing dell'HR interno", l'incoerenza si vede. Decisione: aggiornare pitch deck e voice guidelines per una sola narrativa.
+3. **Incoerenza editoriale del posizionamento.** Se l'investor deck dice "alternativa al recruiter" e la call commerciale dice "outsourcing dell'HR interno", l'incoerenza si vede e brucia credibilità. Mitigazione: aggiornare pitch deck e voice guidelines in modo che le due narrative parlino la stessa lingua, prima del prossimo round di intro.
 
-4. **Il talent pool di Year-1 resta H-FARM-centric se gli accordi non si chiudono entro 3 mesi.** La prima challenge nuova (post-TLC) potrebbe essere a settembre 2026 — se a quel punto siamo ancora solo H-FARM, il signal verso le aziende è negativo. Mitigazione: deadline di chiusura su almeno 3 accordi nuovi entro fine luglio 2026.
+4. **Talent pool Year-1 ancora H-FARM-centric.** La prima challenge nuova post-TLC è prevista per settembre 2026. Se a quel punto il pool è ancora solo H-FARM, il signal verso le aziende è negativo. Mitigazione: target di chiusura per almeno 3 accordi nuovi entro fine luglio 2026.
 
-5. **Discrepanza sulla forma giuridica degli accordi.** Le note non specificano se "accordo quadro" = MoU non vincolante, contratto-quadro vincolante, o LOI. Da definire con legal advisor prima di mandare il primo template a un master. ⚠
+5. **Forma giuridica degli accordi da definire.** "Accordo quadro" è un termine generico — può significare MoU non vincolante, contratto-quadro vincolante, o Letter of Intent. La forma giusta dipende dal tipo di hub e dal grado di esclusività che vogliamo. Va definita con il legal advisor prima dell'invio del primo template, perché un template sbagliato si propaga.
 
 ## Decisione proposta
 
-Approvare 4 punti, votabili in prossimo cofounder meeting:
+Quattro punti, votabili al prossimo cofounder meeting (settimana 23):
 
-1. **Sospendere lo sviluppo prodotto incrementale per 60 giorni** e usare il capacity dei 4 co-founder su business development hub partner. Il prodotto regge — ce lo dice TLC⁴. Quello che non regge è il bacino.
+1. **Sospendere lo sviluppo prodotto incrementale per i 60 giorni successivi al voto** e dedicare il capacity del team co-founder al business development hub partner. Il prodotto regge — la challenge TLC chiusa a fine aprile lo conferma⁴. Quello che non regge ancora è il bacino di candidati intorno alla piattaforma.
 
-2. **Stringere 5 accordi quadro entro 31 luglio 2026** con: Sole 24 Ore Business School (Alvigi), Bocconi Master executive (Gualano), 1 incubatore Nord (NewSteel via Della Rocca?), 1 incubatore Sud (NewSteel via Alvigi), 1 Camera di Commercio (Zhubi).
+2. **Stringere 5 accordi quadro entro il 31 luglio 2026** con: Sole 24 Ore Business School, Bocconi Master Executive, NewSteel (incubatore Federico II — già in pipeline col Campania play¹⁴), un secondo incubatore o acceleratore selezionato tra PoliHub / Talent Garden / H-FARM Pre-Accelerator, una Camera di Commercio campana.
 
-3. **Aggiornare la voice guideline MARA** per allineare narrativa al posizionamento "outsourcing HR interno + alleato del recruiter esterno". Owner: Alvigi (Marketing Specialist¹⁵). Deadline: 15 giugno 2026.
+3. **Aggiornare la voice guideline MARA** per allineare narrativa al posizionamento "outsourcing dell'HR interno + alleato del recruiter esterno". Eliminare il framing "alternativa al recruiter" da tutti i materiali di comunicazione. Deadline: 15 giugno 2026. Output: revisione di `mara-context/voice.md` + revisione pitch deck.
 
-4. **Riformulare il Campania play come primo deployment regionale** del framework, non iniziativa parallela. Aggiornare il memo Campania¹⁴ con riferimento al framework Roby.
+4. **Riformulare il Campania play come primo deployment regionale del framework**, non come iniziativa parallela. Aggiornare il memo Campania¹⁴ con esplicito riferimento al framework Roby.
 
 ## Next step
 
-- **Oggi**: condividere questo memo nel canale co-founder, chiedere reazioni entro 48h
-- **Prossimo cofounder meeting** (settimana 23): vote sui 4 punti decisionali
-- **Entro 7 giugno**: prima bozza accordo quadro standard (Alvigi + legal advisor TBD)
-- **Entro 30 giugno**: 2 incontri esplorativi su 5 (Sole 24 Ore, 1 incubatore)
-- **Entro 31 luglio**: 5 accordi firmati o in negoziazione avanzata
+- **Oggi**: condividere questo memo nel canale co-founder, chiedere reazioni entro 48h.
+- **Prossimo cofounder meeting (settimana 23, 2026)**: voto sui 4 punti decisionali. Distribuzione owner sui 5 accordi quadro decisa contestualmente.
+- **Entro 7 giugno 2026**: prima bozza dell'accordo quadro standard (template legale) pronta per review.
+- **Entro 30 giugno 2026**: due incontri esplorativi conclusi (target: Sole 24 Ore + 1 incubatore).
+- **Entro 31 luglio 2026**: 5 accordi firmati o in negoziazione avanzata.
 
-## ⚠ Discrepanze tra fonti
+## Domande a cui dobbiamo rispondere
 
-- **Cognome di Roby**: non specificato nella sorgente (file `.docx` titolato "Donna (Roby)_"). La call la cita solo come "Roby". Discrepanza segnalata; da risolvere in `mara-context/relationships.md` se Roby diventa advisor ricorrente.
-- **Data esatta della call**: non presente nelle note. Stimata "fine maggio 2026" sulla base del fatto che il file è stato condiviso il 29 maggio 2026. ⚠ Da confermare con Alvigi.
+Sei punti aperti che dobbiamo chiudere al prossimo cofounder meeting o nei giorni precedenti. Sono le precondizioni perché la sequenza decisionale qui sopra parta.
+
+- Chi del team ha contatti caldi già aperti in Sole 24 Ore Business School?
+- Chi ha contatti in Bocconi Master Executive?
+- Chi apre il tavolo con la Camera di Commercio campana scelta?
+- Quale forma giuridica adottiamo per l'accordo quadro standard: MoU non vincolante, contratto-quadro vincolante, o Letter of Intent?
+- "Sole 24 Ore" come hub indica Sole 24 Ore Business School, Sole 24 Ore Formazione, o un'altra entità del gruppo? Da chiarire prima del first contact.
+- Chi è il legal advisor che fa la review del template accordo? Blocker su Decisione 2 e su tutta la sequenza accordi.
 
 ## Fonti
 

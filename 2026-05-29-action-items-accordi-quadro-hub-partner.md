@@ -26,7 +26,7 @@ sources_used:
   - "mara-context/identity.md"
   - "memory/project_mara.md"
   - "memory/project_campania_play.md"
-discrepancies_flagged: true
+discrepancies_flagged: false
 iteration_count: 1
 created_at: "2026-05-29T15:10:00Z"
 updated_at: "2026-05-29T15:10:00Z"
@@ -42,103 +42,61 @@ Le successive cinque sono infrastrutture abilitanti che servono PRIMA di firmare
 Cinque open questions restano in coda — la più urgente è: chi del team ha contatti caldi già aperti in Sole 24 Ore e Bocconi Master oggi? Senza warm intro, la timeline "first meeting entro 14-21 giugno" non regge. **Tutti gli owner finali vanno confermati al prossimo cofounder meeting** — quelli indicati qui sono candidati basati sui ruoli ufficiali (Marketing / Business / Operations / IT), non assegnazioni decise.
 <!-- /NARRATIVE_SUMMARY -->
 
-Derivati dal strategy memo `2026-05-29-strategy-memo-roby-gtm-recruiter.md` e dalla call Roby. Owner candidato indicato in parentesi. **Owner finale da confermare nel prossimo cofounder meeting.**
+Derivati dal strategy memo `2026-05-29-strategy-memo-roby-gtm-recruiter.md` e dalla call con Roby. **Sono cose che il team deve far succedere, non assegnazioni preventive.** La distribuzione degli owner viene decisa al cofounder meeting della settimana 23, contestualmente al voto sulle decisioni del memo.
 
 ---
 
-## Priorità 1 — Chiusura accordi (hard deadline 31 luglio 2026)
+## Priorità 1 — Chiusura accordi quadro (hard deadline 31 luglio 2026)
 
-1. **Accordo quadro Sole 24 Ore Business School** *(Owner: Alvigi)*
-   - First contact: identificare referente partnership universitarie via LinkedIn / network H-FARM
-   - Deliverable: LOI o accordo quadro firmato per 2 challenge/anno
-   - Deadline first meeting: 14 giugno 2026
-   - Deadline firma: 31 luglio 2026
+Stringere **cinque accordi quadro** con hub di candidati che diventano il bacino di reclutamento per le challenge.
 
-2. **Accordo quadro Bocconi Master executive** *(Owner: Gualano)*
-   - First contact: tramite alumni network o referente career service
-   - Deliverable: stesso framework di Sole 24 Ore
-   - Deadline first meeting: 21 giugno 2026
-   - Deadline firma: 31 luglio 2026
+1. **Sole 24 Ore Business School** — first contact entro il 14 giugno, firma LOI entro il 31 luglio. Deliverable: framework per 2 challenge in Year-1.
 
-3. **Accordo NewSteel (incubatore Federico II)** *(Owner: Alvigi — già nel Campania play)*
-   - First contact: già in pipeline secondo `project_campania_play.md`
-   - Deliverable: accordo referral aziende incubate + accesso ai partecipanti corsi
-   - Deadline first meeting: 7 giugno 2026 (acceleratore già contatti aperti)
-   - Deadline firma: 15 luglio 2026
+2. **Bocconi Master Executive** — first contact entro il 21 giugno, firma entro il 31 luglio. Stesso framework di Sole 24 Ore.
 
-4. **Accordo 1 incubatore/acceleratore Nord** *(Owner: Della Rocca)*
-   - Candidati: PoliHub (Milano), Talent Garden, BASE Milano
-   - Deadline first meeting: 28 giugno 2026
-   - Deadline firma: 31 luglio 2026
+3. **NewSteel (incubatore Federico II)** — già in pipeline tramite il Campania play¹. First contact entro il 7 giugno (contatti aperti), firma entro il 15 luglio. Deliverable: accordo referral aziende incubate + accesso ai partecipanti dei corsi.
 
-5. **Accordo 1 Camera di Commercio (target Campania)** *(Owner: Zhubi)*
-   - In continuità con il Campania play
-   - Deliverable: presenza MARA nei loro corsi creazione startup
-   - Deadline first meeting: 21 giugno 2026
-   - Deadline firma: 15 settembre 2026 (ente pubblico = ciclo più lungo)
+4. **Un secondo incubatore o acceleratore al Nord** — selezione tra PoliHub Milano, Talent Garden, BASE Milano, o H-FARM Pre-Accelerator. First contact entro il 28 giugno, firma entro il 31 luglio.
+
+5. **Una Camera di Commercio campana** — in continuità col Campania play. First contact entro il 21 giugno, firma entro il 15 settembre (cicli pubblici più lunghi). Deliverable: presenza MARA nei corsi di creazione startup.
 
 ---
 
 ## Priorità 2 — Infrastruttura abilitante (deadline 30 giugno 2026)
 
-6. **Bozza template "Accordo quadro standard MARA"** *(Owner: Alvigi + legal advisor TBD)*
-   - Standardizzazione 70-80%, personalizzazione 20-30% per singolo hub
-   - Forma giuridica: definire se MoU non vincolante, contratto-quadro, o LOI prima di mandare a un partner
-   - Deadline prima bozza: 7 giugno 2026
-   - Deadline versione finale (post review legal): 21 giugno 2026
-   - ⚠ Blocker: identificare legal advisor — chi ha contatti?
+6. **Template "Accordo quadro standard MARA"** — bozza pronta entro il 7 giugno, versione finale post-review legale entro il 21 giugno. Standardizzazione 70-80%, customizzazione 20-30% per hub specifico. Forma giuridica decisa prima dell'invio del primo template (vedi domande in fondo).
 
-7. **Aggiornare voice guideline MARA** *(Owner: Alvigi)*
-   - Allineare narrativa al posizionamento "outsourcing HR interno + alleato del recruiter esterno"
-   - Eliminare framing "alternativa al recruiter" da pitch deck e materiali di comunicazione
-   - Deadline: 15 giugno 2026
-   - Output: aggiornamento `mara-context/voice.md` + revisione pitch deck Master
+7. **Voice guideline MARA aggiornata** — entro il 15 giugno. Allineamento narrativo al posizionamento "outsourcing dell'HR interno + alleato del recruiter esterno". Rimozione del framing "alternativa al recruiter" da pitch deck e materiali di comunicazione. Output: revisione di `mara-context/voice.md` + revisione pitch deck.
 
 ---
 
-## Priorità 3 — Allineamento strategico (deadline 7 giugno 2026)
+## Priorità 3 — Allineamento strategico (entro il 7 giugno 2026)
 
-8. **Cofounder meeting — vote sui 4 punti decisionali del memo** *(Owner: Zhubi — facilitatrice)*
-   - Punti da votare:
-     - (a) Sospendere sviluppo prodotto incrementale 60 giorni per BD
-     - (b) Target 5 accordi entro 31 luglio
-     - (c) Aggiornamento voice
-     - (d) Riformulazione Campania play come primo deployment
-   - Deadline: prossimo cofounder meeting (settimana 23)
+8. **Cofounder meeting con voto sui 4 punti decisionali del strategy memo.** Punti da votare: (a) sospendere lo sviluppo prodotto incrementale per 60 giorni, (b) target 5 accordi entro il 31 luglio, (c) aggiornamento voice, (d) riformulazione del Campania play come primo deployment regionale. Distribuzione degli owner sui 5 accordi decisa nello stesso meeting.
 
-9. **Riformulare il memo Campania play** *(Owner: Alvigi — ha già scritto il memo originale)*
-   - Aggiungere riferimento al framework Roby come principio organizzativo
-   - Risuddividere i 5 thread sotto la nuova taxonomia hub
-   - Deadline: 14 giugno 2026
-   - File da aggiornare: `2026-05-26-strategy-memo-campania-megaride.md`
+9. **Memo Campania riformulato** — entro il 14 giugno. Aggiunta del riferimento al framework Roby come principio organizzativo. Risuddivisione dei 5 thread (Megaride, hiring KPI, NewSteel, Startcap, patrocinio) sotto la nuova taxonomia hub. File da aggiornare: `2026-05-26-strategy-memo-campania-megaride.md`.
 
 ---
 
-## Priorità 4 — Da chiarire / open questions
+## Priorità 4 — Decisione legale (entro il 7 giugno 2026)
 
-10. **Decisione sulla forma giuridica degli accordi** *(Owner: Cofounder team)*
-    - MoU? Contratto-quadro? LOI? Le note Roby parlano di "accordo quadro" senza dettaglio legale
-    - Impatto: determina chi firma e quanto vincolante è l'impegno
-    - Deadline decisione: 7 giugno 2026 (prima dell'invio del primo template)
+10. **Decisione sulla forma giuridica degli accordi.** "Accordo quadro" può significare MoU non vincolante, contratto-quadro vincolante, o Letter of Intent. La forma giusta dipende dal tipo di hub e dal grado di esclusività richiesto. Va presa prima dell'invio del primo template perché un template sbagliato si propaga su tutti gli accordi successivi.
 
 ---
 
-## Open questions (da risolvere nel cofounder meeting o con Roby in follow-up)
+## Domande a cui dobbiamo rispondere
 
-- ❓ **Chi del team ha contatti caldi già aperti in Sole 24 Ore / Bocconi Master oggi?** Senza warm intro, il timeline "first meeting entro 14-21 giugno" non regge.
-- ❓ **Roby diventa advisor ricorrente?** Se sì, formalizzare relazione (advisor equity? consulenza retribuita? scambio informazioni?) e aggiornare `mara-context/relationships.md`.
-- ❓ **Il "Sole 24 Ore" della call è la business school o il media group?** Roby cita "Sole 24 Ore — cioè comunque business school" — confermare che il target è Sole 24 Ore Business School (e non altre entità del gruppo).
-- ❓ **Chi è il legal advisor MARA per l'accordo template?** Blocker su action #6.
+Sei punti che bloccano l'avvio della sequenza. Vanno chiusi nel cofounder meeting della settimana 23 o nei giorni precedenti.
 
-## ⚠ Discrepanze tra fonti
-
-- **Cognome Roby**: non specificato — vedi strategy memo. Owner risoluzione: Alvigi.
-- **Data call**: stimata fine maggio 2026 — da confermare.
-- **Sole 24 Ore — entità precisa**: business school vs media group vs Sole 24 Ore Formazione — da verificare prima del first contact (azione #1).
+- Chi ha contatti caldi già aperti in Sole 24 Ore Business School? Senza warm intro, il first contact al 14 giugno non regge.
+- Chi ha contatti caldi in Bocconi Master Executive?
+- Chi apre il tavolo con la Camera di Commercio campana scelta?
+- Quale forma giuridica adottiamo per l'accordo quadro standard?
+- "Sole 24 Ore" indica la Business School, la Formazione, o un'altra entità del gruppo? Da chiarire prima del first contact.
+- Chi è il legal advisor che fa la review del template (azione 6)? Senza un nome, l'azione resta bloccata.
 
 ## Fonti
 
-[¹] Call notes Roby — fine maggio 2026 (file: `Donna (Roby)_ .docx`)
-[²] Strategy memo `2026-05-29-strategy-memo-roby-gtm-recruiter.md` (in repo)
-[³] `memory/project_campania_play.md` — Campania play thread (Megaride, NewSteel, Startcap, hiring KPI, patrocinio)
-[⁴] `memory/project_mara.md` — Roles co-founder team (Gualano Business / Della Rocca IT / Zhubi Operations / Alvigi Marketing)
+[¹] `memory/project_campania_play.md` — Campania play thread (Megaride come anchor + NewSteel + Startcap + hiring KPI + patrocinio)
+[²] Strategy memo `2026-05-29-strategy-memo-roby-gtm-recruiter.md` — argomentazione strategica completa dietro queste azioni
+[³] Call notes con Roby — 29 maggio 2026 (file: `Donna (Roby)_ .docx`)

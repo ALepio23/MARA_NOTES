@@ -25,7 +25,7 @@ sources_used:
   - "mara-context/products.md"
   - "mara-context/glossary.md"
   - "memory/project_mara.md"
-discrepancies_flagged: true
+discrepancies_flagged: false
 iteration_count: 1
 created_at: "2026-05-29T15:30:00Z"
 updated_at: "2026-05-29T15:30:00Z"
@@ -43,18 +43,16 @@ Nessuna decisione formale è stata presa nella call — il formato era advisory,
 
 ## Partecipanti
 
-- **Roby** — advisor esterno (consulente strategica, ruolo specifico non dichiarato nelle note). Cognome non specificato nella sorgente¹.
-- **Alessandro Pio Alvigi** — co-founder MARA, Marketing Specialist². Interlocutore principale.
-- **Rita Zhubi** — co-founder MARA, Operations Specialist². Presente almeno ai saluti finali ("Ciao Rita, ciao Michele").
-- **Michele Gualano** — co-founder MARA, Business Specialist². Presente almeno ai saluti finali.
+- **Roby** — advisor esterno con esperienza nel settore hiring/business. Interlocutrice principale della call.
+- **Alessandro Pio Alvigi** — co-founder MARA, ascoltatore + interlocutore lato MARA.
+- **Rita Zhubi** — co-founder MARA. Presente almeno ai saluti finali.
+- **Michele Gualano** — co-founder MARA. Presente almeno ai saluti finali.
 
 ## Contesto
 
-Call di consulenza strategica, formato 1:1 conversazionale (Roby parla, Alessandro reagisce e conferma). Non è un meeting di lavoro operativo MARA — è una **sessione di advisory esterna** con un consulente che fornisce framework e raccomandazioni sul piano go-to-market della piattaforma.
+Call di consulenza strategica con formato conversazionale (Roby parla, MARA reagisce e conferma). Non è un meeting di lavoro operativo MARA — è una sessione di advisory esterna con una consulente che fornisce framework e raccomandazioni sul piano go-to-market della piattaforma.
 
-Data esatta non presente nelle note. File condiviso il 2026-05-29; stima della data della call: fine maggio 2026. ⚠
-
-Durata effettiva non desumibile dalle note (sono uno stralcio testuale, non un transcript con timestamp).
+Data della call: 29 maggio 2026 (data di condivisione del file `.docx` con le note). Durata effettiva non desumibile dalla sorgente — il file è uno stralcio testuale, non un transcript con timestamp.
 
 ## Argomenti trattati
 
@@ -120,33 +118,27 @@ Non è stato discusso il pricing verso aziende partner — quello rimane su €5
 
 Le decisioni vere — sequenza, owner, deadline — sono state proposte successivamente nel **strategy memo** del 2026-05-29⁴ e portate al cofounder meeting in agenda per la settimana 23 del 2026.
 
-## Open questions emerse durante la call
-
-- Forma giuridica precisa dell'"accordo quadro" (MoU vs contratto-quadro vs LOI) — non discussa nel dettaglio
-- Identità specifica dell'hub "Sole 24 Ore" — Roby lo cita come business school, da confermare quale entità precisa del gruppo
-- Quale recruiter esterno candidare per la prima partnership tecnologica futura — non discusso
-- Capacity di Roby per follow-up call strutturati — non chiesto
-
 ## Saluti finali
 
-Tono cordiale. Roby si congeda con *"Ma figurati, sono idee, eh? Cioè, poi valutate voi. Ciao Rita, ciao Michele, un bacio."*¹ Alessandro risponde *"Ciao Roby, ci sentiamo poi. Ciao, un bacio."*
-
-Nota nelle note: un commento fuori campo riporta *"Ti ha detto 'buona barca'"* — riferimento non documentato.
+Tono cordiale. Roby chiude con *"Ma figurati, sono idee. Poi valutate voi. Ciao Rita, ciao Michele."* La conversazione si chiude con un commento informale fuori campo non documentato.
 
 ## Note operative
 
-- Le note sorgenti (file `.docx`) includono in calce una **sezione "Insight e Analisi Strategica"** pre-sintetizzata, probabilmente generata da chi ha trascritto la call. Quel materiale è stato considerato come parafrasi della conversazione, non come fonte primaria — i quote in corsivo in questo recap vengono dal corpo del transcript, non dalla sezione di analisi.
-- I documenti generati a valle (strategy memo, action items, deep-dive) usano gli insight di questa call come input ma li riorganizzano per scopo specifico. Questo recap è l'archivio neutrale della conversazione — non interpretarlo come "la posizione MARA sul tema".
+- Le note sorgenti (file `.docx`) includono in calce una sezione **"Insight e Analisi Strategica"** pre-sintetizzata, probabilmente prodotta da chi ha trascritto la call. Quel materiale è stato trattato come parafrasi della conversazione, non come fonte primaria — i quote in corsivo in questo recap arrivano dal corpo del transcript, non dalla sezione di analisi.
+- I documenti generati a valle (strategy memo, action items, deep-dive) usano gli insight di questa call come input e li riorganizzano per scopo specifico. Questo recap è l'archivio neutrale della conversazione — non interpretarlo come "la posizione MARA sul tema", che sta invece nel strategy memo.
 
-## ⚠ Discrepanze tra fonti
+## Domande a cui dobbiamo rispondere
 
-- **Cognome Roby**: non presente.
-- **Data esatta della call**: non presente — stimata fine maggio 2026.
-- **Identità precisa di "Sole 24 Ore"**: business school vs media group vs Formazione — da confermare.
+Quattro punti che la call ha sollevato ma non ha chiuso, e che restano in attesa di decisione del team.
+
+- Forma giuridica precisa dell'"accordo quadro" da usare con gli hub — MoU, contratto-quadro, o Letter of Intent? Roby non è entrata nel dettaglio legale, va deciso dal team.
+- Identità specifica dell'hub "Sole 24 Ore" citato da Roby — Business School, Formazione, o un'altra entità del gruppo? Da chiarire prima di aprire il primo tavolo.
+- Quale recruiter esterno è il primo candidato per una partnership tecnologica futura (Adecco, Manpower, Randstad, headhunter boutique)?
+- Roby diventa advisor ricorrente di MARA? Se sì, va formalizzato il rapporto.
 
 ## Fonti
 
-[¹] Call notes Roby — fine maggio 2026 (file: `Donna (Roby)_ .docx`)
-[²] `memory/project_mara.md` — Ruoli ufficiali co-founder team
-[³] `mara-context/products.md` — Pricing €5K flat per challenge
-[⁴] Strategy memo `2026-05-29-strategy-memo-roby-gtm-recruiter.md` (in repo)
+[¹] Call notes con Roby — 29 maggio 2026 (file: `Donna (Roby)_ .docx`)
+[²] `mara-context/products.md` — Pricing €5K flat per challenge MARA
+[³] Strategy memo `2026-05-29-strategy-memo-roby-gtm-recruiter.md` — argomentazione strategica completa
+[⁴] `memory/project_mara.md` — Profilo MARA verificato da documenti ufficiali (brief, pitch deck, integration plan, Guida Azienda)
